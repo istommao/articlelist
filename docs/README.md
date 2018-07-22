@@ -6,14 +6,6 @@ article list
 - [微服务2.0技术栈选型手册](https://mp.weixin.qq.com/s/OloZhn2pwfIrOQit_8jefA)
 - [中小型互联网公司微服务实践-经验和教训](http://www.ityouknow.com/springcloud/2017/10/19/micro-service-practice.html)
 
-## Docker
-
-- [Docker底层技术](https://www.jianshu.com/p/7a1ce51a0eba)
-- [Docker容器可视化监控中心搭建](https://www.jianshu.com/p/9e47ffaf5e31)
-- [理解Docker的多阶段镜像构建](https://tonybai.com/2017/11/11/multi-stage-image-build-in-docker/)
-- [使用Docker和Elasticsearch搭建全文本搜索引擎应用](https://juejin.im/entry/5a8ccac36fb9a0636324224d)
-- [手把手教你写Docker](https://mp.weixin.qq.com/s?__biz=MzIxMjAzMDA1MQ==&mid=2648946038&idx=1&sn=a020e98c8dcc3ab69af02db3b5312ba4&chksm=8f5b527ab82cdb6c381276bafe504b56be4e91fb9aa9a0729c34fdbb79e12d4ce52ecf45ae7f#rd)
-
 ## 运维
 
 - [细说堡垒机与数据库审计](http://www.freebuf.com/news/153326.html)
@@ -23,14 +15,6 @@ article list
 ## MQ
 
 - [如何优雅的使用MQ-详述功能场景](http://www.linkedkeeper.com/detail/blog.action?bid=1105)
-
-## 网络
-
-- [关于TCP/IP，必知必会的十个问题](https://mp.weixin.qq.com/s/qn5fw8yHvjBou6Ps2Xo9Lw)
-- [HTTP/2 服务器推送（Server Push）教程](http://www.ruanyifeng.com/blog/2018/03/http2_server_push.html)
-- [跟着动画学习TCP三次握手和四次挥手](https://mp.weixin.qq.com/s/pSrKbVryn71kDVIXUtpXMA)
-- [十分钟了解epoll及多线程IO模型](https://mp.weixin.qq.com/s/7s7INzemjLFr7pd9Rx03Ww)
-- [也许，这样理解HTTPS更容易](http://showme.codes/2017-02-20/understand-https/)
 
 ## Redis
 
@@ -76,13 +60,6 @@ article list
 
 - [Google全新AI实战课发布：从原理到代码，手把手带你入门机器学习](https://mp.weixin.qq.com/s/d8tw62Fr3RopxjrguMCNaw)
 - [推荐些 AI 学习的书籍和资料](https://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA%3D%3D&mid=2650713821&idx=1&sn=d759f1d4d4ebd936adb4da7a13c32cb8#wechat_redirect)
-
-## 数据库 MySQL
-
-- [【内部分享】大数据环境数据仓库&维度建模](http://tech.weli.cn/2017/12/29/dataware-intro/)
-- [新手MySQL工程师必备命令速查手册](https://mp.weixin.qq.com/s/87BoE2-0mW_3qALyNSpiTw)
-- [MySql Binlog事件介绍篇](http://codingo.xyz/index.php/2017/11/13/mysql-events/)
-- [MySQL索引背后的数据结构及算法原理](https://mp.weixin.qq.com/s/6T5YxejFwwm6G93rb6PawA)
 
 ## 计算机基础
 
