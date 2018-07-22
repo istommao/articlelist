@@ -19,7 +19,9 @@
 
 ## 学习
 
-
+- [从0到1，Python网络编程的入门之路](https://zhuanlan.zhihu.com/p/25354747)
+- [Python 多线程](http://python.jobbole.com/85177/)
+- [一文学会 Python 多线程编程](http://codingpy.com/article/python-201-a-tutorial-on-threads/)
 - [在 CentOS 7 上安装并配置 Python 3.6 环境](https://segmentfault.com/a/1190000009922582)
 - [究竟哪个版本的Python是最快的？](https://mp.weixin.qq.com/s/n_jOzv_RDle7FCYfvlVwiA)
 - [使用gdb调试CPython进程](https://juejin.im/entry/599c0d426fb9a0249471b619)
@@ -62,3 +64,8 @@
 - [Python的面试题大全](https://www.jianshu.com/p/92b56fa62c37)
 - [python面题](https://blog.csdn.net/yang_bingo/article/details/80285205)
 
+
+## 其他
+
+- [Python 资源大全](http://python.jobbole.com/84464/)
+- [Python 3 Module of the Week](https://pymotw.com/3/index.html)

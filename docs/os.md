@@ -9,3 +9,5 @@
 - [深入理解子进程](http://blog.guyskk.com/notes/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E5%AD%90%E8%BF%9B%E7%A8%8B)
 
 - [从《深入理解计算机系统》谈一谈编程入门](https://zhuanlan.zhihu.com/p/38584767)
+
+- [常用端口号及其用途](http://www.cnblogs.com/lingerhk/p/3657397.html)
