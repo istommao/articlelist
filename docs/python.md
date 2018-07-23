@@ -2,6 +2,9 @@
 
 ## CPython
 
+- https://devguide.python.org/runtests/
+- http://effbot.org/pyfaq/where-do-i-start-if-i-want-to-learn-about-the-cpython-implementation.htm
+
 - [探索CPython源码：任意精度整数的实现](https://python.freelycode.com/contribution/detail/1034)
 
 - [CPython源码阅读笔记(1)](https://woodrat.xyz/2017/06/21/CPython%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%281%29)
@@ -19,6 +22,8 @@
 
 ## 学习
 
+- [理解 Python asyncio](http://lotabout.me/2017/understand-python-asyncio/)
+- [python之IO多路复用（二）——select、poll、epoll详解](http://blog.51cto.com/itchentao/1895407)
 - [从0到1，Python网络编程的入门之路](https://zhuanlan.zhihu.com/p/25354747)
 - [Python 多线程](http://python.jobbole.com/85177/)
 - [一文学会 Python 多线程编程](http://codingpy.com/article/python-201-a-tutorial-on-threads/)
@@ -63,9 +68,28 @@
 - [聊聊python面试这件事儿](http://www.dongwm.com/archives/liao-liao-pythonmian-shi-zhe-jian-shi-er/)
 - [Python的面试题大全](https://www.jianshu.com/p/92b56fa62c37)
 - [python面题](https://blog.csdn.net/yang_bingo/article/details/80285205)
-
+- [Python开发面试中可能会问到的大部分问题](https://mp.weixin.qq.com/s?__biz=MzU0ODczMTEwOQ==&mid=2247486666&amp;idx=1&amp;sn=709653e9cb60ca65ea6636bf7cdd8381)
 
 ## 其他
 
 - [Python 资源大全](http://python.jobbole.com/84464/)
 - [Python 3 Module of the Week](https://pymotw.com/3/index.html)
+- 对比了 18000 个 Python 项目，这 TOP45 值得学习！
+- [如何提高django的并发能力](https://yunsonbai.top/2017/06/15/gunicorn-django/)
+- [Python札记 -- 文件校验](https://www.cnblogs.com/PandaBamboo/archive/2013/05/10/3071233.html)
+
+## 机器学习
+
+- [主题模型初学者指南](https://zhuanlan.zhihu.com/p/23034092)
+- [用scikit-learn学习LDA主题模型](https://www.cnblogs.com/pinard/p/6908150.html)
+- [用WordCloud词云+LDA主题模型，带你读一读《芳华》(python实现)](https://juejin.im/post/5ab365f25188252c32199636)
+- [LDA处理文档主题分布及分词、词频、tfidf计算](https://blog.csdn.net/Eastmount/article/details/50891162)
+- [lda模型的python实现](https://github.com/a55509432/python-LDA)
+- [用 Python 实现 LDA](https://blog.csdn.net/github_36299736/article/details/54966460)
+- [LDA处理文档主题分布代码入门笔记](https://blog.csdn.net/Eastmount/article/details/50824215)
+- [用python对鹿晗、关晓彤微博进行情感分析](https://zhuanlan.zhihu.com/p/29968019)
+- [如何用Python从海量文本抽取主题？](https://www.jianshu.com/p/fdde9fc03f94)
+
+## 运维
+
+- [这是今年最流行的11个开源DevOps工具](https://mp.weixin.qq.com/s/lC1ygDTLiqhG_dnz2xd2Fw)

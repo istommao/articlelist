@@ -11,3 +11,6 @@
 - [从《深入理解计算机系统》谈一谈编程入门](https://zhuanlan.zhihu.com/p/38584767)
 
 - [常用端口号及其用途](http://www.cnblogs.com/lingerhk/p/3657397.html)
+
+
+- http://blog.sina.com.cn/s/blog_6200c1440100vt4z.html
