@@ -16,6 +16,8 @@
 
 - [MySQL 高性能表设计规范](https://www.jianshu.com/p/f797bbe11d76)
 - [1.2 Mysql 数据库规范](https://www.kancloud.cn/hebidu/mysql_design_specfication/38264)
+- http://www.kuqin.com/shuoit/20170328/353425.html
+- http://www.kuqin.com/database/20120324/319290.html
 
 ## Redis
 

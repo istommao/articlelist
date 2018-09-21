@@ -28,6 +28,9 @@
 - BAT面试之操作系统内存详解 http://www.imooc.com/article/11015
 - 操作系统基础知识 https://blog.csdn.net/bzhxuexi/article/details/34097957
 
+- 你应该知道的浮点数基础知识 http://blog.jobbole.com/86371/
+
+
 ## 学习笔记
 
 - 操作系统知识点整理
@@ -40,3 +43,10 @@
 - 必备操作系统基础知识点 https://www.jianshu.com/p/673e8e17fe18
 - 操作系统知识总结 https://www.jianshu.com/p/c15af2286f92
 - 操作系统知识点大总汇 https://www.jianshu.com/p/a59fb35a3146
+
+
+## Linux
+
+- http://lib.csdn.net/article/linux/32530
+- http://blog.51cto.com/freeloda/1280962
+

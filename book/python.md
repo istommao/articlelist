@@ -55,6 +55,9 @@
 - [Python编程（一）：Python中tuple和list的一点思考](https://zhuanlan.zhihu.com/p/20111754)
 - [Python编程（二）：Python进程、线程那点事儿](https://zhuanlan.zhihu.com/p/20167077)
 - [Python编程（四）：两个实用的Python的装饰器](https://zhuanlan.zhihu.com/p/20175869)
+- https://stackoverflow.com/questions/653368/how-to-create-a-python-decorator-that-can-be-used-either-with-or-without-paramet
+- https://stackoverflow.com/questions/739654/how-to-make-a-chain-of-function-decorators/1594484#1594484
+
 
 ## 面试
 
@@ -94,3 +97,9 @@
 ## 运维
 
 - [这是今年最流行的11个开源DevOps工具](https://mp.weixin.qq.com/s/lC1ygDTLiqhG_dnz2xd2Fw)
+
+## Book
+
+
+- Python Cookbook 3rd Edition  https://python3-cookbook.readthedocs.io/zh_CN/latest/
+- https://eastlakeside.gitbooks.io/interpy-zh/content/

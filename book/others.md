@@ -17,3 +17,19 @@
 
 
 - Software Defines Hardware https://ruff.io/
+- 如何正确的阅读源代码？ http://www.techug.com/post/how-to-read-code-source.html
+
+- 书单 https://note.altair21.org/books/
+
+- IPv6终于要取代IPv4了 https://mp.weixin.qq.com/s/JhsLju9P-TxOu9WfKlW37w
+
+## 豆瓣高分电影
+
+- https://www.douban.com/doulist/223273/
+- 记录历史、记录文化、记录我们的人生 https://www.douban.com/doulist/947900/
+- https://www.douban.com/doulist/38522892/
+
+## 学习方法
+
+- 技术大牛养成指南，一篇不鸡汤的成功学实践
+ https://36kr.com/p/5065399.html
