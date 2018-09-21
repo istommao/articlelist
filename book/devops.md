@@ -5,3 +5,4 @@
 - [一些小团队的自动化运维实践经验](http://showme.codes/2018-06-07/devops-in-action/)
 - [余额宝11.11：基于日志数据分析的高效运维](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ%3D%3D&mid=2247485956&idx=1&sn=3163ea3bdd17a8b82df243d4c4075818#wechat_redirect)
 - [pm2](https://wohugb.gitbooks.io/pm2/content/index.html)
+- Web 持续集成工作实践 https://div.io/topic/1929

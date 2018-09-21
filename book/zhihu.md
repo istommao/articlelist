@@ -15,3 +15,5 @@
 ## 文章
 
 - [我的 Nintendo Switch 游戏库推荐及避雷](https://zhuanlan.zhihu.com/p/31050103)
+
+- kindle电子书资源汇总 https://zhuanlan.zhihu.com/p/25249369

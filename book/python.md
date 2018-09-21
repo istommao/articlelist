@@ -39,7 +39,7 @@
 - [八大排序算法的Python实现](http://www.imooc.com/article/3927)
 - [自己动手开发网络服务器](http://codingpy.com/article/build-a-simple-web-server-part-three/)
 - [StackOverFlowCn](https://github.com/qiwsir/StackOverFlowCn)
-
+- 用Python实现Fibonacci函数 http://www.cnblogs.com/figure9/archive/2010/08/30/1812927.html
 - [Python初学者](https://github.com/Yixiaohan/codeparkshare)
 - [Python3 Cookbook](http://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
 - [StarterLearningPython](https://github.com/qiwsir/StarterLearningPython)
@@ -77,6 +77,7 @@
 - 对比了 18000 个 Python 项目，这 TOP45 值得学习！
 - [如何提高django的并发能力](https://yunsonbai.top/2017/06/15/gunicorn-django/)
 - [Python札记 -- 文件校验](https://www.cnblogs.com/PandaBamboo/archive/2013/05/10/3071233.html)
+- python thrift通信框架的设计 http://xiaorui.cc/2016/07/24/%E5%B0%8F%E6%8E%A2python-thrift%E9%80%9A%E4%BF%A1%E6%A1%86%E6%9E%B6%E7%9A%84%E8%AE%BE%E8%AE%A1/
 
 ## 机器学习
 

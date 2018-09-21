@@ -25,3 +25,8 @@
 - 从C10K到C10M高性能网络应用的理论探索 http://www.52im.net/thread-578-1-1.html
 - 一文读懂高性能网络编程中的I/O模型 http://www.52im.net/thread-1935-1-1.html
 - 一文读懂高性能网络编程中的线程模型 http://www.52im.net/thread-1939-1-1.html
+- http://www.kegel.com/c10k.html
+
+## HTTP
+
+- HTTP协议漫谈 http://www.imooc.com/article/3798

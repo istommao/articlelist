@@ -16,3 +16,4 @@
 - [如何打理好你的业余8小时（我的时间管理术2.0版本）](https://www.douban.com/note/521177603/)
 
 
+- Software Defines Hardware https://ruff.io/

@@ -12,7 +12,7 @@
 - [支付平台开发基础知识汇总](https://juejin.im/entry/5a45bb766fb9a0450809f9b8)
 - [看京东系统架构师如何让笨重的架构变得灵巧](https://mp.weixin.qq.com/s/kgtWFS_ZznoZxj442C6fzA)
 - [沪江全链路跟踪系统设计与实践](https://mp.weixin.qq.com/s/uYTVNMpX8Ci0oFvqEF_jlA)
-
+- 如何设计一个小而美的秒杀系统？ http://www.infoq.com/cn/articles/how-to-design-a-small-and-beautiful-spike-system
 - [闲话高并发的那些神话，看京东架构师如何把它拉下神坛](https://mp.weixin.qq.com/s/FLpdT9wZFT0sJBmNTCIObw)
 
 ## 分布式
