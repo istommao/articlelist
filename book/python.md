@@ -2,6 +2,7 @@
 
 ## CPython
 
+- https://medium.com/@demianbrecht/compiling-cpython-with-a-custom-openssl-c9b668438517
 - https://devguide.python.org/runtests/
 - http://effbot.org/pyfaq/where-do-i-start-if-i-want-to-learn-about-the-cpython-implementation.htm
 

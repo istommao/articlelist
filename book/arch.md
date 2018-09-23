@@ -33,3 +33,5 @@
 - [大型分布式网站术语分析](http://blog.csdn.net/u013256816/article/details/51563564)
 - [分布式架构的套路](https://mp.weixin.qq.com/s/vJJWpIZ-bTzVl9E3wPLlEw)
 - [分布式文件系统FastDFS详解](https://juejin.im/post/5a51ff8df265da3e347b14e4)
+
+- 网站架构基础 https://mp.weixin.qq.com/s/5FmzAEqS6sui-mHev-XTPg

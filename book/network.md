@@ -36,3 +36,13 @@
 ## HTTP
 
 - HTTP协议漫谈 http://www.imooc.com/article/3798
+
+## 网络工具
+
+- 不需要第三方服务器的NAT穿透 https://blog.blahgeek.com/pypwnat.html
+
+- NAT 穿透原理浅浅说（一）
+ https://cloud.tencent.com/developer/article/1005974
+
+- 一分钟实现内网穿透（ngrok服务器搭建） https://blog.csdn.net/zhangguo5/article/details/77848658
+

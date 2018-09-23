@@ -5,3 +5,6 @@
 - https://github.com/liuxinyu95/AlgoXY
 
 - 我的算法学习之路 http://zh.lucida.me/blog/on-learning-algorithms/
+
+- 应对程序员面试，你必须知道的八大数据结构
+ https://mp.weixin.qq.com/s/bwUiPmXnZh6D6Qb4BpuaWw

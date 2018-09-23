@@ -29,6 +29,9 @@
 - 操作系统基础知识 https://blog.csdn.net/bzhxuexi/article/details/34097957
 
 - 你应该知道的浮点数基础知识 http://blog.jobbole.com/86371/
+- 如何评价斯坦福的新操作系统课程CS140e https://www.zhihu.com/question/265653828/answer/477165288
+- 进程 线程 协程 管程 纤程 概念对比理解
+ https://zhuanlan.zhihu.com/p/26757689
 
 
 ## 学习笔记
@@ -36,17 +39,7 @@
 - 操作系统知识点整理
  https://wizardforcel.gitbooks.io/wangdaokaoyan-os/content/index.html
 
-## 面试
 
-- 面试-操作系统 知识点 总汇 http://blog.51cto.com/baiyan425/639389
-- 操作系统系列（笔试面试高频题）http://www.cnblogs.com/webary/p/4782903.html
-- 必备操作系统基础知识点 https://www.jianshu.com/p/673e8e17fe18
-- 操作系统知识总结 https://www.jianshu.com/p/c15af2286f92
-- 操作系统知识点大总汇 https://www.jianshu.com/p/a59fb35a3146
+## 攒机
 
-
-## Linux
-
-- http://lib.csdn.net/article/linux/32530
-- http://blog.51cto.com/freeloda/1280962
-
+- 攒机指南 https://zhuanlan.zhihu.com/p/33928640
