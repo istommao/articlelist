@@ -3,7 +3,7 @@
 ## blog
 
 - http://blog.2baxb.me/
-
+- http://xiaorui.cc/
 - http://blog.guyskk.com/
 - [后端技术杂谈](http://www.rowkey.me/)
 

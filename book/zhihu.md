@@ -7,6 +7,7 @@
 
 ## 话题
 
+- Python 项目的部署，目前互联网公司有哪些成熟的方案 https://www.zhihu.com/question/38081354
 - [哪些 Python 库让你相见恨晚？](https://www.zhihu.com/question/24590883)
 - [Python 常用的标准库以及第三方库有哪些？](https://www.zhihu.com/question/20501628)
 - [怎样才能写出 Pythonic 的代码？](https://www.zhihu.com/question/21408921/answer/129036707)

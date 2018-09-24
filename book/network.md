@@ -11,6 +11,8 @@
 
 ## TCP/IP 资源
 
+- TCP没那么难吧 https://mp.weixin.qq.com/s/zRelB6uSz07YaCoJoggZZA
+
 - TCP 协议简介 http://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html
 - 人人都应该懂点TCP https://www.kawabangga.com/posts/1501
 - TCP/IP详解 卷1：协议 http://www.52im.net/topic-tcpipvol1.html
@@ -25,6 +27,14 @@
 
 ## 高性能网络编程
 
+- python下的socket学习，包括select， epoll，kqueue https://my.oschina.net/u/2299936/blog/615252
+- Select 模型简介
+ http://python.jobbole.com/84058/
+
+- python下简单实现select和epoll的socket网络编程 http://xiaorui.cc/2014/11/13/python%E4%B8%8B%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0select%E5%92%8Cepoll%E7%9A%84socket%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/
+
+- Epoll 模型简介
+ http://python.jobbole.com/84077/
 - 单台服务器并发TCP连接数到底可以有多少 http://www.52im.net/thread-561-1-1.html
 - 上一个10年，著名的C10K并发连接问题 http://www.52im.net/thread-566-1-1.html
 - 下一个10年，是时候考虑C10M并发问题了 http://www.52im.net/thread-568-1-1.html

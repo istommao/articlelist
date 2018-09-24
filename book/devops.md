@@ -27,3 +27,9 @@
 - 关于日志记录的一些感想 http://www.importnew.com/22360.html
 - 日志工具现状调研 http://tech.lede.com/2017/02/06/rd/server/log4jSearch/
 
+## CI/CD 部署
+
+- Gitlab 使用Pipelines进行django的可持续集成 （一）安装篇 https://www.jianshu.com/p/8f2a3020af94
+- Gitlab 使用Pipelines进行django的可持续集成 （二）配置篇 https://www.jianshu.com/p/42f7470c60c2
+
+- Gitlab 使用Pipelines进行django的可持续集成 （三）自动部署篇 https://www.jianshu.com/p/3c13e4af4d89
