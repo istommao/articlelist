@@ -1,5 +1,8 @@
 # github
 
+- https://github.com/keon/algorithms
+- https://github.com/OmkarPathak/pygorithm
+- https://github.com/satwikkansal/wtfPython
 - https://github.com/rfyiamcool/share_ppt
 
 - https://github.com/CyC2018/CS-Notes
@@ -9,3 +12,14 @@
 - https://github.com/yeasy/docker_practice
 
 - https://github.com/grafana/grafana
+
+- https://github.com/deeplearning4j/deeplearning4j
+
+- https://github.com/rootphantomer/Blasting_dictionary
+
+## gitbook
+
+- https://leohxj.gitbooks.io/a-programmer-prepares/programmer-basic/index.html
+- http://blog.xiayf.cn/gitbook/tech-note/index.html
+- http://bitcoin-on-nodejs.ebookchain.org/
+- https://hit-alibaba.github.io/interview/

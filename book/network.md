@@ -49,7 +49,11 @@
 
 ## HTTPS
 
+- http://slikel.iteye.com/blog/1677640
+- http://www.cnblogs.com/guogangj/p/4118605.html
+- https://mp.weixin.qq.com/s/U0311_AiGkIEtyuO9Uh1Rw
 - https://blog.cloudflare.com/rfc-8446-aka-tls-1-3/
+- https://juejin.im/entry/5976d147f265da6c2d2cad1c
 
 ## DNS
 
@@ -58,6 +62,8 @@
 
 ## 网络工具
 
+- 如何使用charles对Android Https进行抓包 https://www.jianshu.com/p/3bbf596c9ca6
+- 使用Charles进行https抓包 https://www.jianshu.com/p/a83b19a36a8b
 - 不需要第三方服务器的NAT穿透 https://blog.blahgeek.com/pypwnat.html
 
 - NAT 穿透原理浅浅说（一）
@@ -66,3 +72,4 @@
 - 一分钟实现内网穿透（ngrok服务器搭建） https://blog.csdn.net/zhangguo5/article/details/77848658
 
 - https://hackernoon.com/writing-a-reverse-proxy-in-just-one-line-with-go-c1edfa78c84b
+- http://www.netcan666.com/2016/09/28/ssh%E9%9A%A7%E9%81%93%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E5%AE%9E%E7%8E%B0%E5%86%85%E7%BD%91%E5%88%B0%E5%85%AC%E7%BD%91%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/

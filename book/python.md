@@ -7,7 +7,7 @@
 - http://effbot.org/pyfaq/where-do-i-start-if-i-want-to-learn-about-the-cpython-implementation.htm
 
 - [探索CPython源码：任意精度整数的实现](https://python.freelycode.com/contribution/detail/1034)
-
+- Linux下搭建Python环境（编译安装） https://zihengcat.github.io/2017/07/06/compile-and-install-python-environment-in-linux-os/
 - [CPython源码阅读笔记(1)](https://woodrat.xyz/2017/06/21/CPython%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%281%29)
 - [十小时学习 CPython 3.6 内部实现](https://juejin.im/entry/597c89d56fb9a03c52456d2b)
 - [github 十小时学习 CPython 3.6 内部实现](https://github.com/rainyear/CPython-Internals-Lecture-Notes)
@@ -22,6 +22,21 @@
 - [Python源码剖析—字符串对象PyStringObject](https://fanchao01.github.io/blog/2016/10/18/python-string/)
 
 ## 学习
+
+- https://blog.csdn.net/yueguanghaidao/article/list/3
+- https://zhuanlan.zhihu.com/p/22246193
+- https://zhuanlan.zhihu.com/p/22338225
+- https://zhuanlan.zhihu.com/p/22275595
+- https://zhuanlan.zhihu.com/p/22386793
+- http://www.dongwm.com/archives/%E4%BD%BF%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B-asyncio%E7%AF%87/
+- https://my.oschina.net/leejun2005/blog/126713
+- https://github.com/donnemartin/interactive-coding-challenges
+
+- 从 asyncio 简单实现看异步是如何工作的 https://www.4async.com/2016/02/simple-implement-asyncio-to-understand-how-async-works/
+
+- Python 中的进程、线程、协程、同步、异步、回调 https://segmentfault.com/a/1190000001813992
+
+- 理解Python闭包与延迟绑定 https://blog.csdn.net/xie_0723/article/details/53925076
 
 - 深入理解python3.4中Asyncio库与Node.js的异步IO机制 http://xidui.github.io/2015/10/29/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3python3-4-Asyncio%E5%BA%93%E4%B8%8ENode-js%E7%9A%84%E5%BC%82%E6%AD%A5IO%E6%9C%BA%E5%88%B6/
 - https://developers.google.com/edu/python/strings
@@ -67,9 +82,13 @@
 - Python魔术方法-Magic Method https://www.cnblogs.com/jhao/p/6022928.html
 
 - Python 工匠：编写条件分支代码的技巧 https://mp.weixin.qq.com/s/IHLNlxOKucB6Q_obRjfIWQ
+- https://www.4async.com/2015/08/introduction-to-async-and-await/
 
 ## 面试
 
+- 面试中如何剔除“鱼目混珠”程序员 http://www.techug.com/post/how-to-get-rit-of-bad-programmmer.html
+- 常见面试题整理--Python概念篇 https://zhuanlan.zhihu.com/p/23526961
+- PYTHON 一些基础面试题目总结 https://blog.csdn.net/alvine008/article/details/39229057
 - Python 面试中 8 个必考问题 https://mp.weixin.qq.com/s/vS7pICPZm9XQLVuaJTGdzw
 - [剑指offfer编程题(python版)](https://www.zybuluo.com/knight/note/493856)
 - [interview_python](https://github.com/taizilongxu/interview_python)
@@ -83,9 +102,18 @@
 - [python面题](https://blog.csdn.net/yang_bingo/article/details/80285205)
 - [Python开发面试中可能会问到的大部分问题](https://mp.weixin.qq.com/s?__biz=MzU0ODczMTEwOQ==&mid=2247486666&amp;idx=1&amp;sn=709653e9cb60ca65ea6636bf7cdd8381)
 - Python面试，非科班生的转型之路 https://mp.weixin.qq.com/s/nCuAnPyXDFLkj9MlyDjmYQ
+- https://www.douban.com/group/topic/40120151/
+- http://blog.jobbole.com/84618/
+- https://michaelyou.github.io/2015/05/19/%E7%BF%BB%E8%AF%91-python%E6%8B%9B%E8%81%98%E6%8C%87%E5%8D%97/
 
 ## 其他
 
+- http://blog.sina.com.cn/s/blog_12c7a20b00102wnqe.html
+- https://blog.ihypo.net/14966489581295.html
+- http://python.jobbole.com/86546/
+- http://www.lybbn.cn/data/datas.php
+- http://www.iworkstation.top/wordpress/2016/11/09/python%E4%B8%8Bpsutil%E7%9B%91%E6%8E%A7%E6%A8%A1%E5%9D%97/
+- psutil--跨平台的进程管理 https://www.jianshu.com/p/64e265f663f6
 - 史上最全的Python面向对象知识点疏理
  https://mp.weixin.qq.com/s/pVzk5tfPD6p-zn5lXN4NzQ
 - 一文总结学习 Python 的 14 张思维导图 https://mp.weixin.qq.com/s/GHq5cPE5H1solrV5FLM31Q
@@ -98,6 +126,13 @@
 - [如何提高django的并发能力](https://yunsonbai.top/2017/06/15/gunicorn-django/)
 - [Python札记 -- 文件校验](https://www.cnblogs.com/PandaBamboo/archive/2013/05/10/3071233.html)
 - python thrift通信框架的设计 http://xiaorui.cc/2016/07/24/%E5%B0%8F%E6%8E%A2python-thrift%E9%80%9A%E4%BF%A1%E6%A1%86%E6%9E%B6%E7%9A%84%E8%AE%BE%E8%AE%A1/
+- http://frankorz.com/2017/07/01/fluent-python-note/
+- 重要python工具-代码质量篇 http://nooverfit.com/wp/%E9%87%8D%E8%A6%81python%E5%B7%A5%E5%85%B7-%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F%E7%AF%87/
+- 逐步提升程序质量的演变过程示例 http://python.jobbole.com/84357/
+- Python 工匠：善用变量来改善代码质量 http://python.jobbole.com/85702/
+- Python性能优化的20条建议 https://segmentfault.com/a/1190000000666603
+- http://frankorz.com/2017/07/01/fluent-python-note/
+- https://mp.weixin.qq.com/s/-R-AtWA0dSeonZtrIrr15g
 
 ## 机器学习
 
@@ -117,6 +152,12 @@
 
 ## Book
 
-
 - Python Cookbook 3rd Edition  https://python3-cookbook.readthedocs.io/zh_CN/latest/
 - https://eastlakeside.gitbooks.io/interpy-zh/content/
+
+## 设计模式
+
+- https://www.jianshu.com/p/ada6ba3cb8c1
+- http://dongweiming.github.io/python-state.html
+- https://yq.aliyun.com/articles/70418
+- https://zhuanlan.zhihu.com/p/31675841?group_id=921042311182983168

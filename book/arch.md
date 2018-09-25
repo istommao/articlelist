@@ -3,6 +3,12 @@
 
 ## 系统架构
 
+- 分布式文件系统FastDFS设计原理 http://blog.chinaunix.net/uid-20196318-id-4058561.html
+- https://mp.weixin.qq.com/s/6pCJFrNOk4HJYlS5qu4K4A
+- https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489270&amp;idx=1&amp;sn=2ce1884396db6b284d6ae0d50a01d7a9
+- REST?RPC?是时候改变你对微服务的认知了 https://mp.weixin.qq.com/s/HTeQNU-1P-hWloEdjl1QYg
+- https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f
+- 令人激动的微服务2.0技术栈 https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651005760&amp;idx=1&amp;sn=f693379db6066ba663fdbf5400108288
 - 一个创业公司的API网关落地实践 https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489439&amp;idx=1&amp;sn=442d3c54afb8ee9187443d273db51fcb
 - 大话程序猿眼里的高并发架构 https://blog.thankbabe.com/2016/09/14/high-concurrency-scheme/
 - 如果有10000台机器，你想怎么玩 http://qinghua.github.io/kubernetes-in-mesos-1/

@@ -7,6 +7,8 @@
 
 ## 话题
 
+- https://www.zhihu.com/question/19552143
+- 在内网通过代理服务器上网，但是在Terminal ping不通。请问为什么 https://www.zhihu.com/question/20053991
 - Python 项目的部署，目前互联网公司有哪些成熟的方案 https://www.zhihu.com/question/38081354
 - [哪些 Python 库让你相见恨晚？](https://www.zhihu.com/question/24590883)
 - [Python 常用的标准库以及第三方库有哪些？](https://www.zhihu.com/question/20501628)
@@ -15,6 +17,9 @@
 -  RSS 订阅源 https://www.zhihu.com/question/19580096
 - 程序员对计算机背后的运行机制的掌握是不是很有必要 https://www.zhihu.com/question/58652147/answer/157875897
 - 常见的网站服务器架构有哪些 https://www.zhihu.com/question/20657269
+- 作为程序员的你，常用的工具软件有哪些？ https://www.zhihu.com/question/22867411/answer/463974547
+- https://www.zhihu.com/question/20299384
+- https://www.zhihu.com/question/36324957
 
 ## 文章
 

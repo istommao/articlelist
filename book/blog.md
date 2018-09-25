@@ -1,12 +1,17 @@
 # Blog
 
+## 站点
+
+- http://www.yugusoft.com/index.htm
+
 ## blog
 
+- http://frankorz.com/
 - http://blog.2baxb.me/
 - http://xiaorui.cc/
 - http://blog.guyskk.com/
 - [后端技术杂谈](http://www.rowkey.me/)
-
+- 各大技术团队博客 https://www.jianshu.com/p/49bc447cad19
 - Linux运维日志  https://www.centos.bz/tag/docker/
 - http://grace.wpbyg.com/like-page
 - http://www.yangxg.com/

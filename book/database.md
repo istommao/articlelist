@@ -12,6 +12,10 @@
 
 ## MySQL
 
+- CentOS 6.5/6.6 安装（install）mysql 5.7 最完整版教程 https://segmentfault.com/a/1190000003049498
+- centos7 mysql数据库安装和配置 https://www.cnblogs.com/starof/p/4680083.html
+- MySQL 索引及查询优化总结 https://cloud.tencent.com/developer/article/1004912
+- MySQL安全策略 http://imysql.com/2016/03/15/sth-about-mysql-data-security.shtml
 
 - [新手MySQL工程师必备命令速查手册](https://mp.weixin.qq.com/s/87BoE2-0mW_3qALyNSpiTw)
 - [MySql Binlog事件介绍篇](http://codingo.xyz/index.php/2017/11/13/mysql-events/)
@@ -24,6 +28,7 @@
 
 ## Redis
 
+- http://blog.jobbole.com/44476/
 - [Redis集群进阶之路(上)](https://mp.weixin.qq.com/s/bm6LYTRzILXk489XurO9_Q)
 - [Redis.md](https://github.com/Snailclimb/Java-Guide/blob/master/%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8/Redis.md)
 - [面试中关于Redis的问题看这篇就够了](https://juejin.im/post/5ad6e4066fb9a028d82c4b66)

@@ -10,3 +10,11 @@
 
 - 最全列表： 80 多个 Linux 系统管理员必备的监控工具 https://mp.weixin.qq.com/s?__biz=MjM5NjQ2NjUwNQ==&mid=401840953&idx=1&sn=b8faa097db5210cb3c70869e9691c813
 
+
+- Percona 监控工具初探 https://www.hi-linux.com/posts/52766.html
+
+- https://www.xuliangwei.com/xubusi/885.html
+
+- http://os.51cto.com/art/201404/435279.htm
+
+- https://mp.weixin.qq.com/s?__biz=MzU0NDEyODkzMQ==&mid=2247486727&amp;idx=1&amp;sn=9f19ab46a05cc7210e2d9adb055de7a0

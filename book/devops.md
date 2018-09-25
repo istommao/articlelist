@@ -1,5 +1,8 @@
 # 运维
 
+- https://mp.weixin.qq.com/s/iqy1EVxHwb7vi32bHq0VLw
+- https://mp.weixin.qq.com/s/eIEpVT97A8qslEirjejtnw
+- http://dockone.io/article/1899
 - [你真的了解如何将 Nginx 配置为Web服务器吗](https://lufficc.com/blog/configure-nginx-as-a-web-server)
 - [细说堡垒机与数据库审计](http://www.freebuf.com/news/153326.html)
 - [一些小团队的自动化运维实践经验](http://showme.codes/2018-06-07/devops-in-action/)
@@ -13,6 +16,9 @@
 
 ## Nginx
 
+- Nginx设置反向代理内网服务器/内部端口 https://www.magentonotes.com/nginx-configure-proxy-intranet.html
+- http://www.infoq.com/cn/articles/thread-pools-boost-performance-9x
+- https://lvtao.net/config/nginx-config-10w.html
 - nginx平台初探(100%) http://tengine.taobao.org/book/chapter_02.html
 - Keepalived+Nginx实现高可用（HA）https://blog.csdn.net/xyang81/article/details/52556886
 - nginx优化——包括https、keepalive等 https://lanjingling.github.io/2016/06/11/nginx-https-keepalived-youhua/
@@ -54,3 +60,6 @@
 - Gitlab 使用Pipelines进行django的可持续集成 （三）自动部署篇 https://www.jianshu.com/p/3c13e4af4d89
 
 - 初创公司应该如何做好持续集成和部署 https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=402922697&idx=1&sn=d3f3fbe1ea3e04ece1952c6cb0e21cc2&scene=1&srcid=031705eYgLlQiq9sydDeX1qR
+- https://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=2651298085&idx=1&sn=bea44fc452443111b51a16e5c5e6efb7
+
+- https://mp.weixin.qq.com/s/uVuBjPj99i2AdlgdGW4Z7g

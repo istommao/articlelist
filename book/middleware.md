@@ -8,3 +8,5 @@
 
 - python使用rabbitmq实例二，工作队列 http://www.01happy.com/python-rabbitmq-work-queues/
 
+- http://www.cnblogs.com/starof/p/4173413.html
+- https://blog.csdn.net/dancheren/article/details/71373970
