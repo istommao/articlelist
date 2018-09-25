@@ -47,6 +47,15 @@
 
 - HTTP协议漫谈 http://www.imooc.com/article/3798
 
+## HTTPS
+
+- https://blog.cloudflare.com/rfc-8446-aka-tls-1-3/
+
+## DNS
+
+- DNS 原理入门 http://www.ruanyifeng.com/blog/2016/06/dns.html
+
+
 ## 网络工具
 
 - 不需要第三方服务器的NAT穿透 https://blog.blahgeek.com/pypwnat.html
@@ -56,3 +65,4 @@
 
 - 一分钟实现内网穿透（ngrok服务器搭建） https://blog.csdn.net/zhangguo5/article/details/77848658
 
+- https://hackernoon.com/writing-a-reverse-proxy-in-just-one-line-with-go-c1edfa78c84b

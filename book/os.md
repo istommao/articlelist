@@ -21,6 +21,7 @@
 - [汇编语言入门教程](http://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html)
 - [工程师成长的必备技能](https://mp.weixin.qq.com/s/TJTax4ug8DILa42Q8RkZGQ)
 
+- 计算机是如何启动的 http://www.ruanyifeng.com/blog/2013/02/booting.html
 
 - 用基本位运算实现加减乘除 http://www.cnblogs.com/kiven-code/archive/2012/09/15/2686922.html
 
@@ -43,3 +44,8 @@
 ## 攒机
 
 - 攒机指南 https://zhuanlan.zhihu.com/p/33928640
+
+## Linux/Unix
+
+- 关于 Linux 进程的睡眠和唤醒 https://mp.weixin.qq.com/s/-zcyWUzCt635UoRrVyvt5Q
+- 交互式 shell 玩转 Python https://juejin.im/entry/5b63deffe51d4519503b73bd

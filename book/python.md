@@ -23,6 +23,8 @@
 
 ## 学习
 
+
+- [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 - [理解 Python asyncio](http://lotabout.me/2017/understand-python-asyncio/)
 - [python之IO多路复用（二）——select、poll、epoll详解](http://blog.51cto.com/itchentao/1895407)
 - [从0到1，Python网络编程的入门之路](https://zhuanlan.zhihu.com/p/25354747)
@@ -59,6 +61,9 @@
 - https://stackoverflow.com/questions/653368/how-to-create-a-python-decorator-that-can-be-used-either-with-or-without-paramet
 - https://stackoverflow.com/questions/739654/how-to-make-a-chain-of-function-decorators/1594484#1594484
 
+- Python魔术方法-Magic Method https://www.cnblogs.com/jhao/p/6022928.html
+
+- Python 工匠：编写条件分支代码的技巧 https://mp.weixin.qq.com/s/IHLNlxOKucB6Q_obRjfIWQ
 
 ## 面试
 
@@ -73,8 +78,14 @@
 - [Python的面试题大全](https://www.jianshu.com/p/92b56fa62c37)
 - [python面题](https://blog.csdn.net/yang_bingo/article/details/80285205)
 - [Python开发面试中可能会问到的大部分问题](https://mp.weixin.qq.com/s?__biz=MzU0ODczMTEwOQ==&mid=2247486666&amp;idx=1&amp;sn=709653e9cb60ca65ea6636bf7cdd8381)
+- Python面试，非科班生的转型之路 https://mp.weixin.qq.com/s/nCuAnPyXDFLkj9MlyDjmYQ
 
 ## 其他
+
+- 史上最全的Python面向对象知识点疏理
+ https://mp.weixin.qq.com/s/pVzk5tfPD6p-zn5lXN4NzQ
+- 一文总结学习 Python 的 14 张思维导图 https://mp.weixin.qq.com/s/GHq5cPE5H1solrV5FLM31Q
+
 
 - [Python 资源大全](http://python.jobbole.com/84464/)
 - [Python 3 Module of the Week](https://pymotw.com/3/index.html)

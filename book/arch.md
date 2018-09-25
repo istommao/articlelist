@@ -15,6 +15,8 @@
 - 如何设计一个小而美的秒杀系统？ http://www.infoq.com/cn/articles/how-to-design-a-small-and-beautiful-spike-system
 - [闲话高并发的那些神话，看京东架构师如何把它拉下神坛](https://mp.weixin.qq.com/s/FLpdT9wZFT0sJBmNTCIObw)
 
+- 一个简单可参考的API网关架构设计（内含代码） https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489105&amp;idx=1&amp;sn=e46c4a81b5fa5bcd7feca2e44b4d8ca0
+
 ## 分布式
 
 - [保证分布式系统数据一致性的6种方案](https://juejin.im/post/5a69509ff265da3e4d72e3db)

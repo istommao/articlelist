@@ -8,3 +8,7 @@
 
 - 应对程序员面试，你必须知道的八大数据结构
  https://mp.weixin.qq.com/s/bwUiPmXnZh6D6Qb4BpuaWw
+
+## 算法
+
+- 字符串匹配的Boyer-Moore算法 http://www.ruanyifeng.com/blog/2013/05/boyer-moore_string_search_algorithm.html

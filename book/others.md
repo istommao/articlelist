@@ -15,6 +15,7 @@
 
 - [如何打理好你的业余8小时（我的时间管理术2.0版本）](https://www.douban.com/note/521177603/)
 
+- https://teachyourselfcs.com/
 
 - Software Defines Hardware https://ruff.io/
 - 如何正确的阅读源代码？ http://www.techug.com/post/how-to-read-code-source.html
@@ -22,6 +23,19 @@
 - 书单 https://note.altair21.org/books/
 
 - IPv6终于要取代IPv4了 https://mp.weixin.qq.com/s/JhsLju9P-TxOu9WfKlW37w
+
+- Crazy Image EXIF Orientation Bug (or Feature?) https://blog.praveen.science/crazy-image-exif-orientation-bug-or-feature/
+
+- https://scrapbox.io/MECHKEYS/
+
+- http://www.emulator101.com/
+
+- https://stackshare.io/
+
+- 身份证号码校验算法 https://my.oschina.net/jhao104/blog/756241
+
+- https://developers.google.com/speed/?hl=zh-CN
+
 
 ## 豆瓣高分电影
 
