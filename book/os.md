@@ -18,6 +18,7 @@
 
 ## 计算机基础
 
+- 计算机原理学习（3）-- 内存工作原理 http://www.cnblogs.com/onlyforcloud/articles/4444325.html
 - [汇编语言入门教程](http://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html)
 - [工程师成长的必备技能](https://mp.weixin.qq.com/s/TJTax4ug8DILa42Q8RkZGQ)
 
@@ -49,3 +50,7 @@
 
 - 关于 Linux 进程的睡眠和唤醒 https://mp.weixin.qq.com/s/-zcyWUzCt635UoRrVyvt5Q
 - 交互式 shell 玩转 Python https://juejin.im/entry/5b63deffe51d4519503b73bd
+
+- 《sed & awk》读书笔记之 awk 篇 http://blog.jobbole.com/31817/
+
+- 每个Linux用户都应该知道的命令行技巧 http://blog.jobbole.com/54425/

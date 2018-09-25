@@ -13,6 +13,8 @@
 - [怎样才能写出 Pythonic 的代码？](https://www.zhihu.com/question/21408921/answer/129036707)
 - [如何面试Python后端工程师？](https://www.zhihu.com/question/33398583/answer/59017861)
 -  RSS 订阅源 https://www.zhihu.com/question/19580096
+- 程序员对计算机背后的运行机制的掌握是不是很有必要 https://www.zhihu.com/question/58652147/answer/157875897
+- 常见的网站服务器架构有哪些 https://www.zhihu.com/question/20657269
 
 ## 文章
 

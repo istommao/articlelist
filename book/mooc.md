@@ -8,3 +8,5 @@
 - http://lifeofzjs.com/blog/2016/02/24/recommmend-6-dot-828/
 - https://pdos.csail.mit.edu/6.828/2014/schedule.html
 - http://www.cnblogs.com/fatsheep9146/category/769143.html
+
+- Percona 监控工具初探 https://www.hi-linux.com/posts/52766.html

@@ -7,6 +7,9 @@
 - [数据库表的设计规范](https://blog.csdn.net/qq30211478/article/details/78040519)
 - [规范化－数据库设计原则](https://www.ibm.com/developerworks/cn/data/library/techarticles/dm-0605jiangt/index.html)
 
+- 十步完全理解 SQL http://blog.jobbole.com/55086/
+- Mysql备份还原数据库之mysqldump实例及参数详细说明 http://www.cnblogs.com/xuejie/archive/2013/01/11/2856911.html
+
 ## MySQL
 
 
@@ -28,3 +31,8 @@
 - [Redis面试刁难](https://mp.weixin.qq.com/s/507jyNbL4xCkxyW6Xk15Xg)
 - [基于redis的分布式锁实现](https://juejin.im/entry/5a502ac2518825732b19a595)
 - [Redis的5个常见应用场景](https://mp.weixin.qq.com/s/qFoLaZ9bFdqTXOBvIRYqIQ)
+
+- 亲密接触Redis-第二天（Redis Sentinel） http://www.voidcn.com/article/p-otrlnnbs-gk.html
+- 原redis重启之后丢失数据 https://blog.csdn.net/zhanglu1236789/article/details/56485213
+
+- 如何实现高可用的redis集群 https://mp.weixin.qq.com/s?__biz=MzAwNTg2MDUyMw==&mid=2247483661&idx=1&sn=c924b3a2b098c4211b0044de180a1c0e

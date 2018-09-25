@@ -12,3 +12,13 @@
 ## 算法
 
 - 字符串匹配的Boyer-Moore算法 http://www.ruanyifeng.com/blog/2013/05/boyer-moore_string_search_algorithm.html
+
+- 数据结构和算法动态可视化 https://visualgo.net/zh
+
+- SORTING：可视化展示排序算法的原理，支持单步查看 http://top.jobbole.com/1229/
+
+- http://blog.jobbole.com/tag/algorithm/
+
+## 编程题
+
+- https://www.oschina.net/news/87258/solve-five-problems-in-5minutes

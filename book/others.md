@@ -36,6 +36,13 @@
 
 - https://developers.google.com/speed/?hl=zh-CN
 
+- 有哪些实用的计算机相关技能，可以在一天内学会 http://blog.jobbole.com/82633/
+
+- 一大波能提高编程技能的游戏 http://blog.jobbole.com/100733/
+
+- https://hxgqh.gitbooks.io/crm/content/
+
+- https://github.com/xitu/gold-miner/blob/master/TODO/101-ways-to-make-your-website-more-awesome.md
 
 ## 豆瓣高分电影
 
@@ -47,3 +54,8 @@
 
 - 技术大牛养成指南，一篇不鸡汤的成功学实践
  https://36kr.com/p/5065399.html
+
+## 区块链
+
+- http://www.debugrun.com/a/MvhAFyg.html
+

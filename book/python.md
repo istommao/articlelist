@@ -23,6 +23,9 @@
 
 ## 学习
 
+- 深入理解python3.4中Asyncio库与Node.js的异步IO机制 http://xidui.github.io/2015/10/29/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3python3-4-Asyncio%E5%BA%93%E4%B8%8ENode-js%E7%9A%84%E5%BC%82%E6%AD%A5IO%E6%9C%BA%E5%88%B6/
+- https://developers.google.com/edu/python/strings
+- https://foofish.net/python-list-implements.html
 
 - [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 - [理解 Python asyncio](http://lotabout.me/2017/understand-python-asyncio/)
@@ -67,6 +70,7 @@
 
 ## 面试
 
+- Python 面试中 8 个必考问题 https://mp.weixin.qq.com/s/vS7pICPZm9XQLVuaJTGdzw
 - [剑指offfer编程题(python版)](https://www.zybuluo.com/knight/note/493856)
 - [interview_python](https://github.com/taizilongxu/interview_python)
 - [Python面试题长啥样？[面试题整理]](https://zhuanlan.zhihu.com/p/21856569)
@@ -86,6 +90,7 @@
  https://mp.weixin.qq.com/s/pVzk5tfPD6p-zn5lXN4NzQ
 - 一文总结学习 Python 的 14 张思维导图 https://mp.weixin.qq.com/s/GHq5cPE5H1solrV5FLM31Q
 
+- 用 Python 理解服务器模型(下) https://www.textarea.com/zhicheng/yong-python-lijie-fuwuqi-moxing-xia-596/
 
 - [Python 资源大全](http://python.jobbole.com/84464/)
 - [Python 3 Module of the Week](https://pymotw.com/3/index.html)

@@ -2,6 +2,9 @@
 
 - [微服务2.0技术栈选型手册](https://mp.weixin.qq.com/s/OloZhn2pwfIrOQit_8jefA)
 - [中小型互联网公司微服务实践-经验和教训](http://www.ityouknow.com/springcloud/2017/10/19/micro-service-practice.html)
+- 微服务与RPC http://dockone.io/article/2103
+- 一种提高微服务架构的稳定性与数据一致性的方法 https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649693377&idx=1&sn=0b0f21e6680dfcae91cb1c2322aeca7a
+- 为什么要重构到微服务 https://mp.weixin.qq.com/s/qThA686tz0kMZAUaWrvPug
 
 ## Docker
 
