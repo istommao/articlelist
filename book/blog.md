@@ -6,6 +6,7 @@
 
 ## blog
 
+- http://hbprotoss.github.io/
 - http://frankorz.com/
 - http://blog.2baxb.me/
 - http://xiaorui.cc/

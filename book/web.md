@@ -40,7 +40,12 @@
 - http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/
 - [Web 安全] 如何通过JWT防御CSRF https://segmentfault.com/a/1190000003716037
 - http://blog.rainy.im/2015/06/10/react-jwt-pretty-good-practice/
+- 不要用JWT替代session管理（上）：全面了解Token,JWT,OAuth,SAML,SSO https://juejin.im/post/5b3b870a5188251ac85826b8
+- 八幅漫画理解使用 JWT设计的单点登录系统 http://blog.didispace.com/user-authentication-with-jwt/
+- https://my.oschina.net/u/3532467/blog/1554174
+- https://blog.csdn.net/yuanlaijike/article/details/80174327
+- 使用 OAuth 2 和 JWT 为微服务提供安全保障 https://segmentfault.com/a/1190000009164779
 
-## Django
+## gunicorn
 
-- http://www.iteye.com/news/32809
+- https://blog.csdn.net/qq_33339479/article/details/78431209

@@ -20,6 +20,7 @@
 - 作为程序员的你，常用的工具软件有哪些？ https://www.zhihu.com/question/22867411/answer/463974547
 - https://www.zhihu.com/question/20299384
 - https://www.zhihu.com/question/36324957
+- 怎么解决TCP网络传输"粘包"问题 https://www.zhihu.com/question/20210025
 
 ## 文章
 

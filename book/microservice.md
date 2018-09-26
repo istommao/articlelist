@@ -7,6 +7,8 @@
 - 为什么要重构到微服务 https://mp.weixin.qq.com/s/qThA686tz0kMZAUaWrvPug
 - http://www.yunweipai.com/archives/9797.html
 
+- 深入聊聊微服务架构的身份认证问题 http://www.infoq.com/cn/articles/identity-authentication-of-architecture-in-micro-service
+
 ## Docker
 
 - [Docker 入门教程](https://mp.weixin.qq.com/s/S64K5cIONsJ6MwptBaMcfg)

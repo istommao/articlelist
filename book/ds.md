@@ -37,6 +37,7 @@
 
 - 字符串匹配算法统一论 http://janfan.cn/chinese/2014/11/16/string-algorithm.html
 - KMP 算法 http://wiki.jikexueyuan.com/project/kmp-algorithm/define.html
+- 数据结构和算法（十一）：红黑树 https://zhuanlan.zhihu.com/p/37470948
 
 
 ## 编程题

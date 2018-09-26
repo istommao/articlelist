@@ -16,6 +16,7 @@
 
 ## Nginx
 
+- Nginx限流 https://mp.weixin.qq.com/s/2AafRL-NcBLcWPkukAy08A
 - Nginx设置反向代理内网服务器/内部端口 https://www.magentonotes.com/nginx-configure-proxy-intranet.html
 - http://www.infoq.com/cn/articles/thread-pools-boost-performance-9x
 - https://lvtao.net/config/nginx-config-10w.html

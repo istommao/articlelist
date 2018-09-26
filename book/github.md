@@ -1,5 +1,7 @@
 # github
 
+- https://github.com/dabeaz/curio
+- https://github.com/quantmind/pulsar
 - https://github.com/keon/algorithms
 - https://github.com/OmkarPathak/pygorithm
 - https://github.com/satwikkansal/wtfPython

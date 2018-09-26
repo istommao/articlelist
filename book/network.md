@@ -7,7 +7,9 @@
 - [跟着动画学习TCP三次握手和四次挥手](https://mp.weixin.qq.com/s/pSrKbVryn71kDVIXUtpXMA)
 - [十分钟了解epoll及多线程IO模型](https://mp.weixin.qq.com/s/7s7INzemjLFr7pd9Rx03Ww)
 - [也许，这样理解HTTPS更容易](http://showme.codes/2017-02-20/understand-https/)
-
+- 计算机网络基础知识总结 http://www.cnblogs.com/maybe2030/p/4781555.html
+- 计算机网络基础知识大总汇 https://www.jianshu.com/p/674fb7ec1e2c
+- 计算机网络基本概念 https://blog.csdn.net/daunxx/article/details/74089959
 
 ## TCP/IP 资源
 
@@ -73,3 +75,9 @@
 
 - https://hackernoon.com/writing-a-reverse-proxy-in-just-one-line-with-go-c1edfa78c84b
 - http://www.netcan666.com/2016/09/28/ssh%E9%9A%A7%E9%81%93%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E5%AE%9E%E7%8E%B0%E5%86%85%E7%BD%91%E5%88%B0%E5%85%AC%E7%BD%91%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/
+
+## 问答
+
+- tcp是流的一些思考--拆包和粘包 https://michaelyou.github.io/2015/03/13/tcp%E6%98%AF%E6%B5%81%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83-%E6%8B%86%E5%8C%85%E5%92%8C%E7%B2%98%E5%8C%85/
+- 怎么解决TCP网络传输“粘包”问题 https://www.zhihu.com/question/20210025
+- tcp粘包分析 https://blog.csdn.net/zhangxinrun/article/details/6721495

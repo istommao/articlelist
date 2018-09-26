@@ -43,7 +43,7 @@
 
 - 操作系统知识点整理
  https://wizardforcel.gitbooks.io/wangdaokaoyan-os/content/index.html
-
+- Unix 即集成开发环境 https://conanblog.me/Unix-as-IDE--Chinese-/index.html
 
 ## 攒机
 
@@ -51,6 +51,7 @@
 
 ## Linux/Unix
 
+- https://akaedu.github.io/book/index.html
 - 鸟哥Linux https://xiaoxueying.gitbooks.io/linux-cookie-of-vbird-3rd/content/index.html
 - 关于 Linux 进程的睡眠和唤醒 https://mp.weixin.qq.com/s/-zcyWUzCt635UoRrVyvt5Q
 - 交互式 shell 玩转 Python https://juejin.im/entry/5b63deffe51d4519503b73bd

@@ -3,3 +3,5 @@
 - [C 语言进阶有哪些优秀的代码可以阅读？](https://zhuanlan.zhihu.com/p/20100507)
 
 - C语言知识点大汇总 http://www.imooc.com/article/1255
+
+- C模块+Python编译安装方式 https://blog.csdn.net/csq_year/article/details/53100338

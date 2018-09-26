@@ -1,11 +1,34 @@
 # Python
 
+- https://www.cnblogs.com/21207-iHome/p/6085334.html
+- https://codeday.me/bug/20170908/68664.html
+- Transitions-Python状态机库 https://runnerliu.github.io/2017/05/26/transitionstranslate/
+- https://xrlin.github.io/python%E5%AE%9E%E7%8E%B0%E7%8A%B6%E6%80%81%E6%9C%BA/
+- Python3 CookBook https://www.kancloud.cn/kancloud/python3-cookbook/47413
+- Python：使用状态机 https://www.ibm.com/developerworks/cn/linux/sdk/python/python-4/index.html
+- https://segmentfault.com/a/1190000008122273
+- https://blog.csdn.net/HeatDeath/article/details/72844120
+- https://www.cnblogs.com/menkeyi/p/5810684.html
+- Python进程间异步通信之signal模块 http://orangleliu.info/2016/03/06/python-signal-module-simple-use/
+- Python中prefork模式的简单实现 http://orangleliu.info/2016/03/06/python-pre-fork-mode-use/
+- python使用master worker管理模型开发服务端 http://xiaorui.cc/2015/07/13/python%E4%BD%BF%E7%94%A8master-worker%E7%AE%A1%E7%90%86%E6%A8%A1%E5%9E%8B%E5%BC%80%E5%8F%91%E6%9C%8D%E5%8A%A1%E7%AB%AF/
+- https://blog.csdn.net/Eastmount/article/details/50155353
+- https://stackoverflow.com/questions/2846653/how-to-use-threading-in-python
+- http://xiaorui.cc/2015/07/10/%E6%89%AF%E6%89%AFpython%E7%9A%84%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%9A%84%E5%90%8C%E6%AD%A5%E9%94%81-lock-rlock-semaphore-event-condition/
+- http://codingpy.com/article/python-201-a-tutorial-on-threads/
+- http://www.dabeaz.com/GIL/
+- https://www.cnblogs.com/restran/p/4903056.html
+- http://www.cnblogs.com/kym/archive/2012/05/14/2498728.html
+
 ## CPython
 
+- https://devguide.python.org/
+- https://github.com/amygdalama/python-internals
+- http://www.pgbovine.net/cpython-internals.htm
+- https://akaptur.com/blog/2014/08/03/getting-started-with-python-internals/
 - https://medium.com/@demianbrecht/compiling-cpython-with-a-custom-openssl-c9b668438517
 - https://devguide.python.org/runtests/
 - http://effbot.org/pyfaq/where-do-i-start-if-i-want-to-learn-about-the-cpython-implementation.htm
-
 - [探索CPython源码：任意精度整数的实现](https://python.freelycode.com/contribution/detail/1034)
 - Linux下搭建Python环境（编译安装） https://zihengcat.github.io/2017/07/06/compile-and-install-python-environment-in-linux-os/
 - [CPython源码阅读笔记(1)](https://woodrat.xyz/2017/06/21/CPython%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%281%29)
@@ -16,7 +39,7 @@
 - [Python 2.5 Virtual Machine](https://troeger.eu/files/teaching/pythonvm08.pdf)
 - [Stepping Through CPython](https://www.youtube.com/watch?v=XGF3Qu4dUqk)
 - [PYTHON 源码阅读 - STRING](http://www.wklken.me/posts/2014/08/08/python-source-string.html)
-
+- http://www.laurentluce.com/posts/python-list-implementation/
 - [Python源码学习(2) 字符串](http://neven.me/python/2016/08/21/Python%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0(2)-%E5%AD%97%E7%AC%A6%E4%B8%B2/)
 - [python源码学习（七）——String对象](https://www.androiddev.net/python7/)
 - [Python源码剖析—字符串对象PyStringObject](https://fanchao01.github.io/blog/2016/10/18/python-string/)
@@ -86,6 +109,7 @@
 
 ## 面试
 
+- https://www.cnblogs.com/sayary/archive/2013/04/16/3024211.html
 - 面试中如何剔除“鱼目混珠”程序员 http://www.techug.com/post/how-to-get-rit-of-bad-programmmer.html
 - 常见面试题整理--Python概念篇 https://zhuanlan.zhihu.com/p/23526961
 - PYTHON 一些基础面试题目总结 https://blog.csdn.net/alvine008/article/details/39229057
@@ -108,6 +132,7 @@
 
 ## 其他
 
+- 终结python协程----从yield到actor模型的实现 https://www.cnblogs.com/zhiyong-ITNote/p/8717945.html
 - http://blog.sina.com.cn/s/blog_12c7a20b00102wnqe.html
 - https://blog.ihypo.net/14966489581295.html
 - http://python.jobbole.com/86546/
@@ -117,9 +142,9 @@
 - 史上最全的Python面向对象知识点疏理
  https://mp.weixin.qq.com/s/pVzk5tfPD6p-zn5lXN4NzQ
 - 一文总结学习 Python 的 14 张思维导图 https://mp.weixin.qq.com/s/GHq5cPE5H1solrV5FLM31Q
-
+- https://www.v2ex.com/t/459697#reply8
 - 用 Python 理解服务器模型(下) https://www.textarea.com/zhicheng/yong-python-lijie-fuwuqi-moxing-xia-596/
-
+- https://zhuanlan.zhihu.com/p/39187089?utm_source=qq&utm_medium=social&utm_oi=29675011178496
 - [Python 资源大全](http://python.jobbole.com/84464/)
 - [Python 3 Module of the Week](https://pymotw.com/3/index.html)
 - 对比了 18000 个 Python 项目，这 TOP45 值得学习！
@@ -133,6 +158,9 @@
 - Python性能优化的20条建议 https://segmentfault.com/a/1190000000666603
 - http://frankorz.com/2017/07/01/fluent-python-note/
 - https://mp.weixin.qq.com/s/-R-AtWA0dSeonZtrIrr15g
+
+- https://realpython.com/
+- https://realpython.com/python-data-types/
 
 ## 机器学习
 
@@ -161,3 +189,21 @@
 - http://dongweiming.github.io/python-state.html
 - https://yq.aliyun.com/articles/70418
 - https://zhuanlan.zhihu.com/p/31675841?group_id=921042311182983168
+
+## socket编程
+
+- https://docs.python.org/3.5/howto/sockets.html
+- https://www.programcreek.com/python/example/7887/socket.SOCK_RAW
+- Code a network packet sniffer in python for Linux https://www.cnblogs.com/rollenholt/archive/2012/07/14/2591017.html
+- https://github.com/reider-roque/packet_sniffer
+- https://stackoverflow.com/questions/34653875/python-how-to-send-data-over-tcp
+- 初试Python raw socket编程 https://wordpress.youran.me/python-raw-socket-programming/
+- https://github.com/labeneator/python-raw-sockets
+- python 利用Raw Socket进行以太网帧嗅探 https://blog.csdn.net/Jeanphorn/article/details/45482773
+- Python之socket初见 用python3实现简单抓包器 http://kissg.me/2016/05/01/python-socket-programming-and-packet-sniffer/
+- Raw Sockets Python SYN TCP SCAN https://www.cybrary.it/0p3n/raw-sockets-python-syn-tcp-scan/
+- Raw socket communication on Linux in Python http://www.kanadas.com/program-e/2014/08/raw_socket_communication_on_li.html
+- Code a network packet sniffer in python for Linux https://www.binarytides.com/python-packet-sniffer-code-linux/
+- https://github.com/mike01/pypacker
+- Python Raw Socket使用示例(发送TCP SYN数据包) https://blog.csdn.net/zhongbeida_xue/article/details/54846037
+- Sending raw Ethernet frames from Python https://csl.name/post/raw-ethernet-frames/

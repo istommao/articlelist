@@ -81,3 +81,6 @@
 
 - 设计高并发下的读服务？一个电商老兵的10条经验 https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489626&amp;idx=1&amp;sn=18ada4e95985aaea20ae9f55ef8dc491
 - 京东抢购服务高并发实践 https://mp.weixin.qq.com/s?__biz=MzIwODA4NjMwNA==&mid=2652897841&idx=1&sn=6328c5011e6c66d9a10d714a9bda52d1&scene=1&srcid=0722EhtbPeAOQqyIH2gBtC36&from=groupmessage
+- 网站高并发大流量访问的处理及解决方案 https://mp.weixin.qq.com/s/Qn_GlvGbeRLsvNfVtxZ0Pw
+- [pv 带宽 并发](http://liuhonghe.me/pv-bandwidth-concurrency.html)
+- [聊一聊PV和并发](http://www.cnblogs.com/zhangweizhong/p/5772330.html)

@@ -6,9 +6,7 @@
 - [编程常用缩写](https://blog.csdn.net/elegant__/article/details/9748835)
 
 
-- [pv 带宽 并发](http://liuhonghe.me/pv-bandwidth-concurrency.html)
-- [聊一聊PV和并发](http://www.cnblogs.com/zhangweizhong/p/5772330.html)
-
+- http://www.huginn.cn/blog/huginn/aws-%E9%83%A8%E7%BD%B2-huginn-%E5%88%B6%E4%BD%9C%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7rss
 
 - [大话来自一个程序员的反思](https://blog.thankbabe.com/2018/02/22/dh-cxy/)
 - [2017 我的技术之路：不忘初心，夯实基础](https://zhuanlan.zhihu.com/p/32411036)
@@ -48,7 +46,7 @@
 - 程序员成长之路心得 https://mp.weixin.qq.com/s?__biz=MzI3NDAzNTQ5Nw==&mid=2703829359&idx=1&sn=c93767aaa06ad44fe3a44290ca73414a
 
 - https://www.jianshu.com/p/8862a4250944
-
+- https://www.zhihu.com/question/21288524
 - GitHub 上有意思的项目推荐 https://www.jianshu.com/p/f6fdd6007670
 - 读英语原版书两年经验分享 https://www.jianshu.com/p/7df92521e7f3
 - http://matt.might.net/articles/what-cs-majors-should-know/
@@ -78,7 +76,6 @@
 - http://liqi.io/weekly014/
 - 使用 Python 制作属于自己的 PDF 电子书 https://mp.weixin.qq.com/s/LDof84hDy8xkT81Pndk8TA
 - https://mp.weixin.qq.com/s/ye1CeIjlfs9VSUab3gQI5g
-- 2017 后端面试经历分享 https://mp.weixin.qq.com/s/QwBLTqR4N4fjnxBIhDniJg
 - https://mp.weixin.qq.com/s/ygL-b5DnjsVzaT4-sde-mg
 
 ## 豆瓣高分电影
