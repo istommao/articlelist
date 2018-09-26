@@ -2,10 +2,13 @@
 
 ## 站点
 
+- http://www.importnew.com/
 - http://www.yugusoft.com/index.htm
 
 ## blog
 
+- https://blog.csdn.net/fx677588
+- https://blog.csdn.net/yunhua_lee/article/list/1
 - http://hbprotoss.github.io/
 - http://frankorz.com/
 - http://blog.2baxb.me/

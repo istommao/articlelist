@@ -1,5 +1,8 @@
 # 软件工程 系统架构
 
+- https://zhuanlan.zhihu.com/p/24660542
+- https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=404369248&idx=1&sn=fb92b273811d7a5c44fd97f7d034517f
+- https://www.jishux.com/p/83d6b7b81416f5fb
 
 ## 系统架构
 
@@ -10,7 +13,7 @@
 - https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f
 - 令人激动的微服务2.0技术栈 https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651005760&amp;idx=1&amp;sn=f693379db6066ba663fdbf5400108288
 - 一个创业公司的API网关落地实践 https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489439&amp;idx=1&amp;sn=442d3c54afb8ee9187443d273db51fcb
-- 大话程序猿眼里的高并发架构 https://blog.thankbabe.com/2016/09/14/high-concurrency-scheme/
+- 大话程序猿眼里的高并发架构https://blog.thankbabe.com/2016/09/14/high-concurrency-scheme/
 - 如果有10000台机器，你想怎么玩 http://qinghua.github.io/kubernetes-in-mesos-1/
 - 大型网站技术架构-入门梳理 http://brianway.github.io/2017/01/18/reading-note-architecture-design/
 - 设计一个智能客服系统 https://blog.csdn.net/wangyangzhizhou/article/details/62046912
@@ -67,7 +70,7 @@
 
 ## 高并发 高可用
 
-
+- https://colobu.com/2015/05/22/implement-C1000K-servers-by-spray-netty-undertow-and-node-js/
 - 高性能服务器架构思路【不仅是思路】https://wetest.qq.com/lab/view/?id=80
 - Web服务器的性能估计 http://www.yunweipai.com/archives/5487.html
 - 大话程序猿眼里的高并发之续篇 https://blog.thankbabe.com/2017/02/27/high-concurrency-scheme-xp/
@@ -84,3 +87,7 @@
 - 网站高并发大流量访问的处理及解决方案 https://mp.weixin.qq.com/s/Qn_GlvGbeRLsvNfVtxZ0Pw
 - [pv 带宽 并发](http://liuhonghe.me/pv-bandwidth-concurrency.html)
 - [聊一聊PV和并发](http://www.cnblogs.com/zhangweizhong/p/5772330.html)
+
+## 秒杀系统
+
+- https://crossoverjie.top/2018/05/07/ssm/SSM18-seconds-kill/

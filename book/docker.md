@@ -11,3 +11,4 @@
 - Docker 使用指南 (六)—— 使用 Docker 部署 Django 容器栈 https://cloud.tencent.com/developer/article/1004350
 - 用docker部署django应用 https://tomming233.github.io/2017/04/24/%E7%94%A8docker%E9%83%A8%E7%BD%B2django%E5%BA%94%E7%94%A8/
 
+- https://mp.weixin.qq.com/s/y51N4xvJX2OcNnmKligFGA

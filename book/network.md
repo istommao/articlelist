@@ -48,14 +48,20 @@
 ## HTTP
 
 - HTTP协议漫谈 http://www.imooc.com/article/3798
+- http://shawnz.me/posts/b10175ff/
 
 ## HTTPS
 
+- https://imququ.com/post/enable-tls-1-3.html
+- https://www.jianshu.com/p/67bcb140d804
+- https://tech.upyun.com/article/276/1.html
 - http://slikel.iteye.com/blog/1677640
 - http://www.cnblogs.com/guogangj/p/4118605.html
 - https://mp.weixin.qq.com/s/U0311_AiGkIEtyuO9Uh1Rw
 - https://blog.cloudflare.com/rfc-8446-aka-tls-1-3/
 - https://juejin.im/entry/5976d147f265da6c2d2cad1c
+- http://www.cnblogs.com/ttltry-air/archive/2012/08/20/2647898.html
+- https://klionsec.github.io/2017/07/31/https-learn/#menu
 
 ## DNS
 
@@ -64,20 +70,27 @@
 
 ## 网络工具
 
+- https://mp.weixin.qq.com/s/GakaPR5a8c0eqxROcSwHVQ
 - 如何使用charles对Android Https进行抓包 https://www.jianshu.com/p/3bbf596c9ca6
 - 使用Charles进行https抓包 https://www.jianshu.com/p/a83b19a36a8b
 - 不需要第三方服务器的NAT穿透 https://blog.blahgeek.com/pypwnat.html
 
 - NAT 穿透原理浅浅说（一）
  https://cloud.tencent.com/developer/article/1005974
-
+- http://meilbn.com/2017/10/25/VPS-build-shadowsocks-and-bbr/
 - 一分钟实现内网穿透（ngrok服务器搭建） https://blog.csdn.net/zhangguo5/article/details/77848658
-
+- https://steemit.com/cn/@shanestark/ss-ssr
 - https://hackernoon.com/writing-a-reverse-proxy-in-just-one-line-with-go-c1edfa78c84b
 - http://www.netcan666.com/2016/09/28/ssh%E9%9A%A7%E9%81%93%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E5%AE%9E%E7%8E%B0%E5%86%85%E7%BD%91%E5%88%B0%E5%85%AC%E7%BD%91%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/
+- https://coxxs.me/303
+- https://www.loyalsoldier.me/fuck-the-gfw-with-my-own-shadowsocks-server/
+- https://medium.com/@zoomyale/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E7%9A%84%E7%BB%88%E6%9E%81%E5%A7%BF%E5%8A%BF-%E5%9C%A8-vultr-vps-%E4%B8%8A%E6%90%AD%E5%BB%BA-shadowsocks-fd57c807d97e
 
 ## 问答
 
 - tcp是流的一些思考--拆包和粘包 https://michaelyou.github.io/2015/03/13/tcp%E6%98%AF%E6%B5%81%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83-%E6%8B%86%E5%8C%85%E5%92%8C%E7%B2%98%E5%8C%85/
 - 怎么解决TCP网络传输“粘包”问题 https://www.zhihu.com/question/20210025
 - tcp粘包分析 https://blog.csdn.net/zhangxinrun/article/details/6721495
+- 细说浏览器输入URL后发生了什么 https://segmentfault.com/a/1190000012092552
+- https://www.itcodemonkey.com/article/8293.html
+- https://www.textarea.com/ExpectoPatronum/shiyong-shadowsocks-kexue-shangwang-265/

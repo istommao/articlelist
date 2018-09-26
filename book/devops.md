@@ -13,6 +13,7 @@
 - 7大ChatOps&5种团队协作工具助力DevOps实践 https://mp.weixin.qq.com/s/nChTfHclcejMYdQcOhpa_g
 - 精通DevOps必备的50款顶级工具 https://mp.weixin.qq.com/s/H4vR7RAZ3brPKxmEyZvKOQ
 - Quora 是如何做持续部署的 https://mp.weixin.qq.com/s/TCh7b6bX2Uyk83DSITmxxA
+- https://mp.weixin.qq.com/s/Nsmc1b_pDpP7gbPYUKx3WA
 
 ## Nginx
 

@@ -1,5 +1,36 @@
 # Python
 
+- https://blog.csdn.net/yueguanghaidao/article/details/25382717
+- https://www.toutiao.com/i6496059951234941454/
+- http://codingpy.com/article/python-progression-path-simple-version/
+- http://kissg.me/2016/04/09/python-generator-yield/
+- https://www.ibm.com/developerworks/cn/linux/sdk/python/charm-26/index.html
+- http://www.cnblogs.com/youxin/archive/2013/05/05/3060526.html
+- http://blog.mengy.org/debug-python-with-gdb-in-offline-centos/
+- https://github.com/ictar/python-doc/blob/master/Others/%E4%BD%BF%E7%94%A8gdb%E8%B0%83%E8%AF%95CPython%E8%BF%9B%E7%A8%8B.md
+- https://stackoverflow.com/questions/29664256/how-to-install-python-debug-info-for-gdb
+- http://blog.sina.com.cn/s/blog_553c6d4e0101jd79.html
+- https://stripe.com/blog/exploring-python-using-gdb
+- https://blog.csdn.net/wangzuxi/article/details/42317827
+- https://blog.alswl.com/2013/11/python-gdb/
+- https://www.podoliaka.org/2016/04/10/debugging-cpython-gdb/
+- https://mozillazg.com/2017/07/debug-running-python-process-with-gdb.html
+- https://juejin.im/entry/599c0d426fb9a0249471b619
+- https://troeger.eu/files/teaching/pythonvm08.pdf
+- http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
+- Context Locals https://werkzeug-docs-cn.readthedocs.io/zh_CN/latest/local.html
+- http://www.cnblogs.com/vamei/archive/2012/10/11/2720042.html
+- https://danieltakeshi.github.io/2013/07/05/ten-things-python-programmers-should-know/
+- 浅析Python解释器的设计（一） https://zhuanlan.zhihu.com/p/26895103
+- https://feilong.me/2011/01/recommended-entries-for-you-to-master-python
+- https://blog.csdn.net/wentyoon/article/details/77898890
+- http://scotdoyle.com/python-epoll-howto.html
+- 如何在Python中使用 Linux epoll 翻译自《How To Use Linux epoll with Python》 https://fukun.org/archives/10051470.html
+
+- http://lovenight.github.io/2016/09/25/Python-3-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
+- https://www.jianshu.com/p/1e375fb40506
+- https://pythoncaff.com/docs/python-guide/2018
+- https://zhuanlan.zhihu.com/p/30056870
 - https://www.cnblogs.com/21207-iHome/p/6085334.html
 - https://codeday.me/bug/20170908/68664.html
 - Transitions-Python状态机库 https://runnerliu.github.io/2017/05/26/transitionstranslate/
@@ -19,9 +50,16 @@
 - http://www.dabeaz.com/GIL/
 - https://www.cnblogs.com/restran/p/4903056.html
 - http://www.cnblogs.com/kym/archive/2012/05/14/2498728.html
+- https://www.jianshu.com/p/0dffe9aeba29
+- http://www.cnblogs.com/kym/archive/2012/05/14/2498728.html
+- https://blog.csdn.net/helloxiaozhe/article/details/78104975
+- https://hgoldfish.com/blogs/article/63/
+- https://www.restran.net/2015/10/22/how-python-code-run/
+- http://python.jobbole.com/85641/
 
 ## CPython
 
+- https://blog.csdn.net/caimouse/article/details/45098859
 - https://devguide.python.org/
 - https://github.com/amygdalama/python-internals
 - http://www.pgbovine.net/cpython-internals.htm
@@ -46,6 +84,7 @@
 
 ## 学习
 
+- http://www.cnblogs.com/pycode/p/sysos.html
 - https://blog.csdn.net/yueguanghaidao/article/list/3
 - https://zhuanlan.zhihu.com/p/22246193
 - https://zhuanlan.zhihu.com/p/22338225
@@ -106,9 +145,12 @@
 
 - Python 工匠：编写条件分支代码的技巧 https://mp.weixin.qq.com/s/IHLNlxOKucB6Q_obRjfIWQ
 - https://www.4async.com/2015/08/introduction-to-async-and-await/
+- http://dongweiming.github.io/Expert-Python/
 
 ## 面试
 
+- https://zhuanlan.zhihu.com/p/34359657
+- https://zhuanlan.zhihu.com/p/34124369
 - https://www.cnblogs.com/sayary/archive/2013/04/16/3024211.html
 - 面试中如何剔除“鱼目混珠”程序员 http://www.techug.com/post/how-to-get-rit-of-bad-programmmer.html
 - 常见面试题整理--Python概念篇 https://zhuanlan.zhihu.com/p/23526961
@@ -129,9 +171,13 @@
 - https://www.douban.com/group/topic/40120151/
 - http://blog.jobbole.com/84618/
 - https://michaelyou.github.io/2015/05/19/%E7%BF%BB%E8%AF%91-python%E6%8B%9B%E8%81%98%E6%8C%87%E5%8D%97/
+- https://zhuanlan.zhihu.com/p/25742657
 
 ## 其他
 
+- https://zhuanlan.zhihu.com/p/32826130
+- https://www.zhihu.com/question/23474039
+- http://www.dongwm.com/archives/fen-xiang-ge-zhun-bei-gei-gong-si-jiang-pythongao-ji-bian-cheng-de-slide/
 - 终结python协程----从yield到actor模型的实现 https://www.cnblogs.com/zhiyong-ITNote/p/8717945.html
 - http://blog.sina.com.cn/s/blog_12c7a20b00102wnqe.html
 - https://blog.ihypo.net/14966489581295.html
@@ -161,18 +207,9 @@
 
 - https://realpython.com/
 - https://realpython.com/python-data-types/
-
-## 机器学习
-
-- [主题模型初学者指南](https://zhuanlan.zhihu.com/p/23034092)
-- [用scikit-learn学习LDA主题模型](https://www.cnblogs.com/pinard/p/6908150.html)
-- [用WordCloud词云+LDA主题模型，带你读一读《芳华》(python实现)](https://juejin.im/post/5ab365f25188252c32199636)
-- [LDA处理文档主题分布及分词、词频、tfidf计算](https://blog.csdn.net/Eastmount/article/details/50891162)
-- [lda模型的python实现](https://github.com/a55509432/python-LDA)
-- [用 Python 实现 LDA](https://blog.csdn.net/github_36299736/article/details/54966460)
-- [LDA处理文档主题分布代码入门笔记](https://blog.csdn.net/Eastmount/article/details/50824215)
-- [用python对鹿晗、关晓彤微博进行情感分析](https://zhuanlan.zhihu.com/p/29968019)
-- [如何用Python从海量文本抽取主题？](https://www.jianshu.com/p/fdde9fc03f94)
+- http://python.jobbole.com/88367/
+- https://www.python-course.eu/python3_magic_methods.php
+- https://pycoders-weekly-chinese.readthedocs.io/en/latest/issue6/a-guide-to-pythons-magic-methods.html
 
 ## 运维
 
@@ -185,6 +222,7 @@
 
 ## 设计模式
 
+- http://dongweiming.github.io/python-pototype.html
 - https://www.jianshu.com/p/ada6ba3cb8c1
 - http://dongweiming.github.io/python-state.html
 - https://yq.aliyun.com/articles/70418
@@ -207,3 +245,8 @@
 - https://github.com/mike01/pypacker
 - Python Raw Socket使用示例(发送TCP SYN数据包) https://blog.csdn.net/zhongbeida_xue/article/details/54846037
 - Sending raw Ethernet frames from Python https://csl.name/post/raw-ethernet-frames/
+- http://beej-zhcn.netdpi.net/02-what-is-socket/2-1-two-internet-sockets
+
+- https://www.binarytides.com/raw-socket-programming-in-python-linux/
+- https://www.binarytides.com/python-socket-programming-tutorial/
+- https://www.binarytides.com/category/sockets/python-sockets-sockets/

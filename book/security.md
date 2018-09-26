@@ -1,5 +1,8 @@
 # 安全
 
+- https://mp.weixin.qq.com/s/5OkQktb4cWkrHdDIe7ipWA
+- https://blog.csdn.net/ywk253100/article/details/25654101
+
 - 常见的Web密码学攻击方式汇总 https://www.anquanke.com/post/id/84724
 - [合法练习黑客技术？这15个网站也许可以帮到你](http://www.freebuf.com/special/123961.html)
 
@@ -27,6 +30,7 @@
 
 ## 密码学 加密解密
 
+- http://www.ehcoo.com/cryptology1.html
 - 高级加密标准AES的工作模式（ECB、CBC、CFB、OFB） https://blog.poxiao.me/p/advanced-encryption-standard-and-block-cipher-mode/
 
 
@@ -41,3 +45,25 @@
 - https://blog.csdn.net/21aspnet/article/details/7249401
 - https://blog.csdn.net/zcmain/article/details/70160857
 - https://blog.csdn.net/u011068702/article/details/73357150
+- http://wwwusers.di.uniroma1.it/~parisi/Risorse/Certificates.pdf
+
+- https://www.barretlee.com/blog/2016/04/24/detail-about-ca-and-certs/
+- https://kangzubin.com/certificate-format/
+- https://blog.csdn.net/hherima/article/details/36879321
+
+## ASN.1
+- http://blog.getreu.net/projects/asn1-tiny-decoder/
+- https://github.com/wbond/asn1crypto
+- https://github.com/wbond/asn1crypto/issues/46
+- https://www.example-code.com/python/asn_convert.asp
+- http://snmplabs.com/pyasn1/index.html
+- https://github.com/andrivet/python-asn1
+- https://media.readthedocs.org/pdf/python-asn1/latest/python-asn1.pdf
+- https://www.cryptologie.net/article/260/asn1-vs-der-vs-pem-vs-x509-vs-pkcs7-vs/
+- https://www.openssl.org/docs/manmaster/man1/asn1parse.html
+- https://stackoverflow.com/questions/24567623/how-to-see-what-attributes-are-signed-inside-pkcs7
+- https://blog.csdn.net/as3luyuan123/article/details/13339803
+- https://blog.csdn.net/kimqcn4/article/details/69561191
+- http://blog.51cto.com/wushank/1915795
+- http://www.cnblogs.com/gordon0918/p/5262997.html
+- https://zhuanlan.zhihu.com/p/30033032

@@ -6,6 +6,7 @@
 
 ## wsgi
 
+- https://cizixs.com/2014/11/09/dive-into-wsgiref
 - Wsgiref 包——符合 WSGI 标准的 Web 服务实现（一）
  http://python.jobbole.com/88637/
 

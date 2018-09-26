@@ -1,5 +1,7 @@
 # 其他
 
+- https://mp.weixin.qq.com/s/RiH3a1gvLwCyoUlwwluIUw
+- https://www.apowersoft.cn/free-online-screen-recorder
 
 - https://agileui.com/demo/delight/demo/admin-template/lazyload.html
 

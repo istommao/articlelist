@@ -20,7 +20,7 @@
 ## 计算机基础
 
 - 计算机原理学习（3）-- 内存工作原理 http://www.cnblogs.com/onlyforcloud/articles/4444325.html
-- [汇编语言入门教程](http://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html)
+
 - [工程师成长的必备技能](https://mp.weixin.qq.com/s/TJTax4ug8DILa42Q8RkZGQ)
 
 - 计算机是如何启动的 http://www.ruanyifeng.com/blog/2013/02/booting.html
@@ -60,7 +60,23 @@
 
 - 每个Linux用户都应该知道的命令行技巧 http://blog.jobbole.com/54425/
 - https://mp.weixin.qq.com/s/uT7VjmthQgFoyPB7kk0DNQ
+- https://mp.weixin.qq.com/s/phZbNUjLovHtFHVOEkZ_AQ
+- https://mp.weixin.qq.com/s/W3IR3H5Mp6INdm8k6Ydf3Q
 
 ## 汇编
 
 - 原子操作(1) - 用汇编实现原子操作 http://www.cppblog.com/woaidongmao/archive/2014/12/23/98965.html
+- [汇编语言入门教程](http://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html)
+- http://gitbook.net/html/assembly/2013/0811115.html
+
+## 编译
+
+- https://coolshell.cn/articles/1547.html
+- https://www.wikiwand.com/zh/LL%E5%89%96%E6%9E%90%E5%99%A8
+- http://www.cnblogs.com/liushuijinger/archive/2012/05/09/2490972.html
+- https://www.cnblogs.com/YukiJohnson/archive/2012/10/27/2741836.html
+- https://arthurchiao.github.io/blog/x86-asm-guide-trans-cn-zh/
+
+## 其他
+
+- https://openresty.org/posts/dynamic-tracing/?utm_source=qq

@@ -18,3 +18,6 @@
 - http://os.51cto.com/art/201404/435279.htm
 
 - https://mp.weixin.qq.com/s?__biz=MzU0NDEyODkzMQ==&mid=2247486727&amp;idx=1&amp;sn=9f19ab46a05cc7210e2d9adb055de7a0
+- https://mp.weixin.qq.com/s/45BhudhTOfeommKCiBP5nA
+- http://hao.jobbole.com/python-watchdog/
+- https://mp.weixin.qq.com/s/Rbx-KLGgd6GF4JZU3CGwcQ

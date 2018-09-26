@@ -12,6 +12,11 @@
 
 ## MySQL
 
+- https://itbilu.com/database/mysql/VJVOut01M.html
+- https://www.cnblogs.com/seasonsstory/p/3570895.html
+- https://blog.csdn.net/fjssharpsword/article/details/77185018
+- https://www.jianshu.com/p/7cccdaa2d177
+- https://www.jianshu.com/p/95a103add722
 - CentOS 6.5/6.6 安装（install）mysql 5.7 最完整版教程 https://segmentfault.com/a/1190000003049498
 - centos7 mysql数据库安装和配置 https://www.cnblogs.com/starof/p/4680083.html
 - MySQL 索引及查询优化总结 https://cloud.tencent.com/developer/article/1004912

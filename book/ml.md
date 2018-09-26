@@ -1,5 +1,6 @@
 # 机器学习
 
+- https://developers.google.cn/machine-learning/crash-course/ml-intro
 - 轻松看懂机器学习十大常用算法 http://blog.jobbole.com/108395/
 - http://blog.jobbole.com/110684/
 - https://open.163.com/movie/2008/1/M/C/M6SGF6VB4_M6SGHFBMC.html
@@ -10,6 +11,18 @@
 - https://json0071.gitbooks.io/svm/content/
 - https://www.zhihu.com/question/20523667/answer/180774900
 - https://www.zhihu.com/question/36324957
+- http://static.icybear.net/[CN]Programmer%20competency%20matrix.htm
+
+- [主题模型初学者指南](https://zhuanlan.zhihu.com/p/23034092)
+- [用scikit-learn学习LDA主题模型](https://www.cnblogs.com/pinard/p/6908150.html)
+- [用WordCloud词云+LDA主题模型，带你读一读《芳华》(python实现)](https://juejin.im/post/5ab365f25188252c32199636)
+- [LDA处理文档主题分布及分词、词频、tfidf计算](https://blog.csdn.net/Eastmount/article/details/50891162)
+- [lda模型的python实现](https://github.com/a55509432/python-LDA)
+- [用 Python 实现 LDA](https://blog.csdn.net/github_36299736/article/details/54966460)
+- [LDA处理文档主题分布代码入门笔记](https://blog.csdn.net/Eastmount/article/details/50824215)
+- [用python对鹿晗、关晓彤微博进行情感分析](https://zhuanlan.zhihu.com/p/29968019)
+- [如何用Python从海量文本抽取主题？](https://www.jianshu.com/p/fdde9fc03f94)
+
 
 ## 人工智能
 
