@@ -1,5 +1,16 @@
 # 安全
 
+- 软件 Bug 引发的十次严重后果 http://blog.jobbole.com/97/
+
+- 一个险恶bug的深入分析 http://blog.jobbole.com/18715/
+
+- 渗透中寻找突破口的那些事
+ https://mp.weixin.qq.com/s?__biz=MjM5MTY2Mjg3Ng==&mid=207227532&idx=1&sn=fc0ae901971b80815e018c3c6f602737&scene=1#rd
+
+- 永不消逝的电波（一）：无线电入门篇 http://www.freebuf.com/articles/wireless/77819.html
+
+- 一张图片黑掉你：在图片中嵌入恶意程序 http://www.freebuf.com/news/69106.html
+
 - https://mp.weixin.qq.com/s/5OkQktb4cWkrHdDIe7ipWA
 - https://blog.csdn.net/ywk253100/article/details/25654101
 

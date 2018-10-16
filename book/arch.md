@@ -1,8 +1,13 @@
 # 软件工程 系统架构
 
+- 七牛是如何搞定每天500亿条日志的 http://news.csdn.net/article_preview.html?preview=1&reload=1&arcid=2825342
+
 - https://zhuanlan.zhihu.com/p/24660542
 - https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=404369248&idx=1&sn=fb92b273811d7a5c44fd97f7d034517f
 - https://www.jishux.com/p/83d6b7b81416f5fb
+
+- LinkedIn架构这十年
+ http://www.infoq.com/cn/articles/ten-years-history-of-linkedIn-architecture
 
 ## 系统架构
 

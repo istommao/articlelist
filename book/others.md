@@ -1,5 +1,7 @@
 # 其他
 
+- Quora 是如何做到高质量的快速开发的？ http://blog.jobbole.com/88862/
+
 - https://mp.weixin.qq.com/s/RiH3a1gvLwCyoUlwwluIUw
 - https://www.apowersoft.cn/free-online-screen-recorder
 
@@ -7,6 +9,7 @@
 
 - [编程常用缩写](https://blog.csdn.net/elegant__/article/details/9748835)
 
+- 学习新技术的10个建议 http://blog.jobbole.com/39602/
 
 - http://www.huginn.cn/blog/huginn/aws-%E9%83%A8%E7%BD%B2-huginn-%E5%88%B6%E4%BD%9C%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7rss
 
@@ -111,3 +114,4 @@
 - http://tool.chacuo.net/cryptrsaprikey
 - https://blog.zhengxianjun.com/online-tool/rsa/
 - https://regexr.com/
+

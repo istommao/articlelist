@@ -1,5 +1,7 @@
 # 数据结构与算法
 
+- 常见算法在实际项目中的应用 http://blog.jobbole.com/52669/
+
 - http://interactivepython.org/runestone/static/pythonds/index.html
 - [HashMap解读](https://juejin.im/entry/5a140ca4f265da43310d728d)
 - 32种常用算法 https://my.oschina.net/u/937710/blog/140094

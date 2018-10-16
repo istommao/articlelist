@@ -7,6 +7,7 @@
 
 ## blog
 
+- https://shockerli.net/post/
 - https://blog.csdn.net/fx677588
 - https://blog.csdn.net/yunhua_lee/article/list/1
 - http://hbprotoss.github.io/

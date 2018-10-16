@@ -1,5 +1,8 @@
 # web
 
+- 做 Web 应用要知道的那些事 http://web.jobbole.com/82778/
+
+
 ## restful
 
 - https://www.jianshu.com/p/23cccb3a90b1

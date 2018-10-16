@@ -65,3 +65,8 @@
 - https://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=2651298085&idx=1&sn=bea44fc452443111b51a16e5c5e6efb7
 
 - https://mp.weixin.qq.com/s/uVuBjPj99i2AdlgdGW4Z7g
+
+## 其他
+
+- 同行代码审查的实战经验 http://blog.jobbole.com/85184/
+

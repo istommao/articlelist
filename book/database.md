@@ -9,9 +9,15 @@
 
 - 十步完全理解 SQL http://blog.jobbole.com/55086/
 - Mysql备份还原数据库之mysqldump实例及参数详细说明 http://www.cnblogs.com/xuejie/archive/2013/01/11/2856911.html
+- 关系型数据库表结构的两个设计技巧
+ http://blog.jobbole.com/100060/
 
 ## MySQL
 
+
+
+- MySQL索引背后的数据结构及算法原理 http://blog.codinglabs.org/articles/theory-of-mysql-index.html
+- https://shockerli.net/post/1000-line-mysql-note/
 - https://itbilu.com/database/mysql/VJVOut01M.html
 - https://www.cnblogs.com/seasonsstory/p/3570895.html
 - https://blog.csdn.net/fjssharpsword/article/details/77185018

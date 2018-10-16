@@ -1,5 +1,6 @@
 # 操作系统
 
+- [Linux 内核揭密](https://xinqiu.gitbooks.io/linux-insides-cn/content/Booting/)
 - [《Linux内核设计与实现》读书笔记 - 目录 （完结）](http://www.cnblogs.com/wang_yb/p/3514730.html)
 
 - [Linux TCP connect with Select() fails at testserver](https://stackoverflow.com/questions/7089128/linux-tcp-connect-with-select-fails-at-testserver/7220380#7220380)
@@ -18,6 +19,8 @@
 
 
 ## 计算机基础
+
+- 计算机底层是如何访问显卡的？ http://www.zhihu.com/question/20722310
 
 - 计算机原理学习（3）-- 内存工作原理 http://www.cnblogs.com/onlyforcloud/articles/4444325.html
 
@@ -51,6 +54,7 @@
 
 ## Linux/Unix
 
+- 一大波你可能不知道的 Linux 网络工具 https://linux.cn/article-5435-1.html
 - https://akaedu.github.io/book/index.html
 - 鸟哥Linux https://xiaoxueying.gitbooks.io/linux-cookie-of-vbird-3rd/content/index.html
 - 关于 Linux 进程的睡眠和唤醒 https://mp.weixin.qq.com/s/-zcyWUzCt635UoRrVyvt5Q
@@ -80,3 +84,8 @@
 ## 其他
 
 - https://openresty.org/posts/dynamic-tracing/?utm_source=qq
+
+- 网络库libevent、libev、libuv对比
+    - https://blog.csdn.net/lijinqi1987/article/details/71214974
+    - http://www.voidcn.com/article/p-daesptvb-bqt.html
+    - https://winddoing.github.io/post/12060.html

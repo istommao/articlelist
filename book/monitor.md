@@ -1,5 +1,7 @@
 # 监控
 
+- Linux常用系统性能监控命令 http://www.cnblogs.com/myresearch/p/linux-monitor-tools.html
+
 - 一个优雅的报警处理系统范例：微信为主，短信为辅 http://chuansong.me/n/1612986352023
 
 - 互联网监控, Open-falcon用户配置 https://www.jerrylou.me/open-falcon/open-falcon-deploy-20160806.html
@@ -21,3 +23,8 @@
 - https://mp.weixin.qq.com/s/45BhudhTOfeommKCiBP5nA
 - http://hao.jobbole.com/python-watchdog/
 - https://mp.weixin.qq.com/s/Rbx-KLGgd6GF4JZU3CGwcQ
+
+- 用 Python 脚本实现对 Linux 服务器的监控 https://www.ibm.com/developerworks/cn/linux/1312_caojh_pythonlinux/index.html
+
+- http://blog.jobbole.com/88115/
+

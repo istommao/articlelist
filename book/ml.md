@@ -24,6 +24,9 @@
 - [如何用Python从海量文本抽取主题？](https://www.jianshu.com/p/fdde9fc03f94)
 
 
+- 自己动手写贝叶斯分类器给图书分类 https://www.jianshu.com/p/f6a3f3200689
+
+
 ## 人工智能
 
 - https://mp.weixin.qq.com/s/mkAABD_0GaPliRDyKLuCgw
@@ -37,3 +40,5 @@
 - 只需十四步：从零开始掌握Python机器学习（附资源） https://www.jiqizhixin.com/articles/2017-03-14-2
 
 - https://mp.weixin.qq.com/s/50VBqn31odswCtJ-argkRw
+
+- 机器学习常见算法分类汇总 https://www.ctocio.com/hotnews/15919.html

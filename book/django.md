@@ -22,3 +22,6 @@
 - http://www.likernel.com/pythonshi-xian-mysqlshu-ju-ku-lian-jie-chi/
 - https://www.the5fire.com/reduce-db-conn-with-django-persistent-connection.html
 - https://www.centos.bz/2018/03/django%E4%B8%ADmysql-redis%E8%BF%9E%E6%8E%A5%E6%B1%A0/
+
+- 在Django中实现一个高性能未读消息计数器
+ http://www.zlovezl.cn/articles/implement-an-efficient-counter-in-django/

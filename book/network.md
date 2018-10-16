@@ -66,6 +66,7 @@
 ## DNS
 
 - DNS 原理入门 http://www.ruanyifeng.com/blog/2016/06/dns.html
+- 从理论到实践，全方位认识DNS（理论篇）https://selfboot.cn/2015/11/05/dns_theory/
 
 
 ## 网络工具
@@ -94,3 +95,5 @@
 - 细说浏览器输入URL后发生了什么 https://segmentfault.com/a/1190000012092552
 - https://www.itcodemonkey.com/article/8293.html
 - https://www.textarea.com/ExpectoPatronum/shiyong-shadowsocks-kexue-shangwang-265/
+
+- Redis 与网络流量整形 http://blog.jobbole.com/88064/
