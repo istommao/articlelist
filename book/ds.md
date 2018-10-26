@@ -46,3 +46,10 @@
 
 - https://www.oschina.net/news/87258/solve-five-problems-in-5minutes
 - https://algorithm.yuanbin.me/zh-hans/
+
+- 手写二叉树？程序员面试最常见问题TOP 48 https://zhuanlan.zhihu.com/p/45469008
+
+
+- [译] Google Interview University 一套完整的学习手册帮助自己准备 Google 的面试 https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md
+
+- https://github.com/donnemartin/interactive-coding-challenges
