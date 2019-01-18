@@ -1,5 +1,7 @@
 # 数据结构与算法
 
+- Problem Solving with Algorithms and Data Structures using Python http://interactivepython.org/courselib
+
 - 常见算法在实际项目中的应用 http://blog.jobbole.com/52669/
 
 - http://interactivepython.org/runestone/static/pythonds/index.html

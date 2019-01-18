@@ -1,5 +1,7 @@
 # 计算机网络
 
+- [https解读](https://tls.ulfheim.net/)
+
 - [白话TCP运输控制(一) -- TCP的拥塞控制](https://blog.csdn.net/zxm342698145/article/details/80998692)
 
 - [关于TCP/IP，必知必会的十个问题](https://mp.weixin.qq.com/s/qn5fw8yHvjBou6Ps2Xo9Lw)
@@ -10,6 +12,10 @@
 - 计算机网络基础知识总结 http://www.cnblogs.com/maybe2030/p/4781555.html
 - 计算机网络基础知识大总汇 https://www.jianshu.com/p/674fb7ec1e2c
 - 计算机网络基本概念 https://blog.csdn.net/daunxx/article/details/74089959
+
+- [TCP 为什么是三次握手，而不是两次或四次？](https://www.zhihu.com/question/24853633)
+- [三次握手的误解与错误类比 (RFC 解读) ](https://juejin.im/post/5c37f36b518825261f7350fa)
+- [“三次握手，四次挥手”你真的懂吗？ ](https://www.cnblogs.com/qcrao-2018/p/10182185.html)
 
 ## TCP/IP 资源
 

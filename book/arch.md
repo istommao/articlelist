@@ -70,6 +70,9 @@
 - [分布式架构的套路](https://mp.weixin.qq.com/s/vJJWpIZ-bTzVl9E3wPLlEw)
 - [分布式文件系统FastDFS详解](https://juejin.im/post/5a51ff8df265da3e347b14e4)
 
+- [漫谈单点登录（SSO）(淘宝天猫)（转载）](https://www.cnblogs.com/ruiati/p/6249361.html)
+- [SSO单点登录、跨域重定向、跨域设置Cookie、京东单点登录实例分析](https://blog.csdn.net/clh604/article/details/20365967)
+- [Taobao SSO 跨域登录过程解析](https://yanmingming.wordpress.com/2017/12/12/taobao-sso-%E8%B7%A8%E5%9F%9F%E7%99%BB%E5%BD%95%E8%BF%87%E7%A8%8B%E8%A7%A3%E6%9E%90/)
 
 - 深度解析gRPC以及京东分布式服务框架跨语言实战 https://mp.weixin.qq.com/s?__biz=MzUzMjkwMjg3Mg==&mid=2247484904&amp;idx=1&amp;sn=36113a0fe83e7762ef952a3b9d7222f5
 
