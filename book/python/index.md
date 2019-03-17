@@ -1,5 +1,6 @@
 # Python
 
+
 - http://projectpython.net/chapter00/
 - https://blog.csdn.net/yueguanghaidao/article/details/25382717
 - https://www.toutiao.com/i6496059951234941454/
@@ -58,30 +59,6 @@
 - https://www.restran.net/2015/10/22/how-python-code-run/
 - http://python.jobbole.com/85641/
 
-## CPython
-
-- https://blog.csdn.net/caimouse/article/details/45098859
-- https://devguide.python.org/
-- https://github.com/amygdalama/python-internals
-- http://www.pgbovine.net/cpython-internals.htm
-- https://akaptur.com/blog/2014/08/03/getting-started-with-python-internals/
-- https://medium.com/@demianbrecht/compiling-cpython-with-a-custom-openssl-c9b668438517
-- https://devguide.python.org/runtests/
-- http://effbot.org/pyfaq/where-do-i-start-if-i-want-to-learn-about-the-cpython-implementation.htm
-- [探索CPython源码：任意精度整数的实现](https://python.freelycode.com/contribution/detail/1034)
-- Linux下搭建Python环境（编译安装） https://zihengcat.github.io/2017/07/06/compile-and-install-python-environment-in-linux-os/
-- [CPython源码阅读笔记(1)](https://woodrat.xyz/2017/06/21/CPython%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%281%29)
-- [十小时学习 CPython 3.6 内部实现](https://juejin.im/entry/597c89d56fb9a03c52456d2b)
-- [github 十小时学习 CPython 3.6 内部实现](https://github.com/rainyear/CPython-Internals-Lecture-Notes)
-- [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
-- [Debugging of CPython processes with gdb](http://podoliaka.org/2016/04/10/debugging-cpython-gdb/)
-- [Python 2.5 Virtual Machine](https://troeger.eu/files/teaching/pythonvm08.pdf)
-- [Stepping Through CPython](https://www.youtube.com/watch?v=XGF3Qu4dUqk)
-- [PYTHON 源码阅读 - STRING](http://www.wklken.me/posts/2014/08/08/python-source-string.html)
-- http://www.laurentluce.com/posts/python-list-implementation/
-- [Python源码学习(2) 字符串](http://neven.me/python/2016/08/21/Python%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0(2)-%E5%AD%97%E7%AC%A6%E4%B8%B2/)
-- [python源码学习（七）——String对象](https://www.androiddev.net/python7/)
-- [Python源码剖析—字符串对象PyStringObject](https://fanchao01.github.io/blog/2016/10/18/python-string/)
 
 ## 学习
 
@@ -148,31 +125,6 @@
 - https://www.4async.com/2015/08/introduction-to-async-and-await/
 - http://dongweiming.github.io/Expert-Python/
 
-## 面试
-
-- https://zhuanlan.zhihu.com/p/34359657
-- https://zhuanlan.zhihu.com/p/34124369
-- https://www.cnblogs.com/sayary/archive/2013/04/16/3024211.html
-- 面试中如何剔除“鱼目混珠”程序员 http://www.techug.com/post/how-to-get-rit-of-bad-programmmer.html
-- 常见面试题整理--Python概念篇 https://zhuanlan.zhihu.com/p/23526961
-- PYTHON 一些基础面试题目总结 https://blog.csdn.net/alvine008/article/details/39229057
-- Python 面试中 8 个必考问题 https://mp.weixin.qq.com/s/vS7pICPZm9XQLVuaJTGdzw
-- [剑指offfer编程题(python版)](https://www.zybuluo.com/knight/note/493856)
-- [interview_python](https://github.com/taizilongxu/interview_python)
-- [Python面试题长啥样？[面试题整理]](https://zhuanlan.zhihu.com/p/21856569)
-- [很全的 Python 面试题](http://python.jobbole.com/85231/)
-- [常见面试题整理--Python代码篇](https://zhuanlan.zhihu.com/p/23582996)
-- [Python面试指南](https://zhuanlan.zhihu.com/p/25177227)
-- [Python面试必须要看的15个问题](http://codingpy.com/article/essential-python-interview-questions/)
-- [聊聊python面试这件事儿](http://www.dongwm.com/archives/liao-liao-pythonmian-shi-zhe-jian-shi-er/)
-- [Python的面试题大全](https://www.jianshu.com/p/92b56fa62c37)
-- [python面题](https://blog.csdn.net/yang_bingo/article/details/80285205)
-- [Python开发面试中可能会问到的大部分问题](https://mp.weixin.qq.com/s?__biz=MzU0ODczMTEwOQ==&mid=2247486666&amp;idx=1&amp;sn=709653e9cb60ca65ea6636bf7cdd8381)
-- Python面试，非科班生的转型之路 https://mp.weixin.qq.com/s/nCuAnPyXDFLkj9MlyDjmYQ
-- https://www.douban.com/group/topic/40120151/
-- http://blog.jobbole.com/84618/
-- https://michaelyou.github.io/2015/05/19/%E7%BF%BB%E8%AF%91-python%E6%8B%9B%E8%81%98%E6%8C%87%E5%8D%97/
-- https://zhuanlan.zhihu.com/p/25742657
 
 ## 其他
 

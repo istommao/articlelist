@@ -1,5 +1,6 @@
 # 计算机网络
 
+
 - https://www.cnblogs.com/fengzanfeng/articles/1339347.html#3902877
 - [三十天学不会TCP,UDP/IP网络编程](https://rogerzhu.gitbooks.io/-tcp-udp-ip/content/)
 - [https解读](https://tls.ulfheim.net/)
@@ -20,62 +21,6 @@
 - [三次握手的误解与错误类比 (RFC 解读) ](https://juejin.im/post/5c37f36b518825261f7350fa)
 - [“三次握手，四次挥手”你真的懂吗？ ](https://www.cnblogs.com/qcrao-2018/p/10182185.html)
 
-## TCP/IP 资源
-
-- TCP没那么难吧 https://mp.weixin.qq.com/s/zRelB6uSz07YaCoJoggZZA
-
-- TCP 协议简介 http://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html
-- 人人都应该懂点TCP https://www.kawabangga.com/posts/1501
-- TCP/IP详解 卷1：协议 http://www.52im.net/topic-tcpipvol1.html
-- 《TCP/IP详解》学习笔记 http://www.52im.net/forum.php?mod=collection&action=view&ctid=3
-- TCP 的那些事儿（上）https://coolshell.cn/articles/11564.html
-- TCP 的那些事儿（下）https://coolshell.cn/articles/11609.html
-- 技术往事：改变世界的TCP/IP协议 http://www.52im.net/thread-520-1-1.html
-- 就是要你懂 TCP | 最经典的TCP性能问题 http://jm.taobao.org/2017/06/01/20170601/
-- https://jvns.ca/blog/2014/08/12/what-happens-if-you-write-a-tcp-stack-in-python/
-
-
-
-## 高性能网络编程
-
-- python下的socket学习，包括select， epoll，kqueue https://my.oschina.net/u/2299936/blog/615252
-- Select 模型简介
- http://python.jobbole.com/84058/
-
-- python下简单实现select和epoll的socket网络编程 http://xiaorui.cc/2014/11/13/python%E4%B8%8B%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0select%E5%92%8Cepoll%E7%9A%84socket%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/
-
-- Epoll 模型简介
- http://python.jobbole.com/84077/
-- 单台服务器并发TCP连接数到底可以有多少 http://www.52im.net/thread-561-1-1.html
-- 上一个10年，著名的C10K并发连接问题 http://www.52im.net/thread-566-1-1.html
-- 下一个10年，是时候考虑C10M并发问题了 http://www.52im.net/thread-568-1-1.html
-- 从C10K到C10M高性能网络应用的理论探索 http://www.52im.net/thread-578-1-1.html
-- 一文读懂高性能网络编程中的I/O模型 http://www.52im.net/thread-1935-1-1.html
-- 一文读懂高性能网络编程中的线程模型 http://www.52im.net/thread-1939-1-1.html
-- http://www.kegel.com/c10k.html
-
-## HTTP
-
-- HTTP协议漫谈 http://www.imooc.com/article/3798
-- http://shawnz.me/posts/b10175ff/
-
-## HTTPS
-
-- https://imququ.com/post/enable-tls-1-3.html
-- https://www.jianshu.com/p/67bcb140d804
-- https://tech.upyun.com/article/276/1.html
-- http://slikel.iteye.com/blog/1677640
-- http://www.cnblogs.com/guogangj/p/4118605.html
-- https://mp.weixin.qq.com/s/U0311_AiGkIEtyuO9Uh1Rw
-- https://blog.cloudflare.com/rfc-8446-aka-tls-1-3/
-- https://juejin.im/entry/5976d147f265da6c2d2cad1c
-- http://www.cnblogs.com/ttltry-air/archive/2012/08/20/2647898.html
-- https://klionsec.github.io/2017/07/31/https-learn/#menu
-
-## DNS
-
-- DNS 原理入门 http://www.ruanyifeng.com/blog/2016/06/dns.html
-- 从理论到实践，全方位认识DNS（理论篇）https://selfboot.cn/2015/11/05/dns_theory/
 
 
 ## 网络工具
@@ -106,3 +51,24 @@
 - https://www.textarea.com/ExpectoPatronum/shiyong-shadowsocks-kexue-shangwang-265/
 
 - Redis 与网络流量整形 http://blog.jobbole.com/88064/
+
+
+
+## 高性能网络编程
+
+- python下的socket学习，包括select， epoll，kqueue https://my.oschina.net/u/2299936/blog/615252
+- Select 模型简介
+ http://python.jobbole.com/84058/
+
+- python下简单实现select和epoll的socket网络编程 http://xiaorui.cc/2014/11/13/python%E4%B8%8B%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0select%E5%92%8Cepoll%E7%9A%84socket%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/
+
+- Epoll 模型简介
+ http://python.jobbole.com/84077/
+- 单台服务器并发TCP连接数到底可以有多少 http://www.52im.net/thread-561-1-1.html
+- 上一个10年，著名的C10K并发连接问题 http://www.52im.net/thread-566-1-1.html
+- 下一个10年，是时候考虑C10M并发问题了 http://www.52im.net/thread-568-1-1.html
+- 从C10K到C10M高性能网络应用的理论探索 http://www.52im.net/thread-578-1-1.html
+- 一文读懂高性能网络编程中的I/O模型 http://www.52im.net/thread-1935-1-1.html
+- 一文读懂高性能网络编程中的线程模型 http://www.52im.net/thread-1939-1-1.html
+- http://www.kegel.com/c10k.html
+
