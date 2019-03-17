@@ -1,5 +1,6 @@
 # Python
 
+- http://projectpython.net/chapter00/
 - https://blog.csdn.net/yueguanghaidao/article/details/25382717
 - https://www.toutiao.com/i6496059951234941454/
 - http://codingpy.com/article/python-progression-path-simple-version/

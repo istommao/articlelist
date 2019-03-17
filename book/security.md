@@ -1,5 +1,7 @@
 # 安全
 
+
+- 常见的Web密码学攻击方式汇总 http://bobao.360.cn/learning/detail/3100.html
 - 软件 Bug 引发的十次严重后果 http://blog.jobbole.com/97/
 
 - 一个险恶bug的深入分析 http://blog.jobbole.com/18715/

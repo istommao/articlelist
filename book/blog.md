@@ -31,3 +31,5 @@
 
 - 程序员必读书单 1.0 http://lucida.me/blog/developer-reading-list/
 - 程序员技术练级攻略 https://coolshell.cn/articles/4990.html
+
+- [Python-3-学习笔记](http://lovenight.github.io/2016/09/25/Python-3-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)

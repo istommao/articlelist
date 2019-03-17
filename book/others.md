@@ -1,5 +1,14 @@
 # 其他
 
+- [Introduction
+How to be a Programmer 中文版](https://ahangchen.gitbooks.io/how-to-be-a-programmer-cn/content/)
+- 界面不错的文章样式 https://get233.com/archives/sass-intro.html#menu_index_1
+
+- sicp https://learningsicp.github.io/
+- https://lfkdsk.gitbooks.io/magicsicp/content/
+
+- https://storybook.js.org/use-cases/
+
 - Quora 是如何做到高质量的快速开发的？ http://blog.jobbole.com/88862/
 
 - https://mp.weixin.qq.com/s/RiH3a1gvLwCyoUlwwluIUw
@@ -102,6 +111,7 @@
 
 ## 前端模版
 
+- UI组件 https://github.com/storybooks/storybook
 - https://colorlib.com/wp/angularjs-admin-templates/
 - https://superdevresources.com/angularjs-admin-templates/
 - https://cssauthor.com/responsive-free-angularjs-admin-themes/
@@ -114,4 +124,14 @@
 - http://tool.chacuo.net/cryptrsaprikey
 - https://blog.zhengxianjun.com/online-tool/rsa/
 - https://regexr.com/
+
+- [生成好看的代码图片](https://carbon.now.sh/)
+
+## 图片验证码
+
+- https://blog.csdn.net/shuai_wy/article/details/62419257
+- https://www.aneasystone.com/archives/2018/03/python-selenium-geetest-crack.html
+- https://www.jianshu.com/p/c64902f60c7c
+- https://juejin.im/post/5a30fd69f265da432480717c
+- https://www.cnblogs.com/xcj26/p/5242758.html
 

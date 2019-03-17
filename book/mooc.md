@@ -10,3 +10,6 @@
 - http://www.cnblogs.com/fatsheep9146/category/769143.html
 
 - https://zhuanlan.zhihu.com/p/25059738
+
+
+- [可汗学院公开课：微积分预备](http://open.163.com/special/Khan/precalculus.html)

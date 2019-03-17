@@ -13,7 +13,9 @@
 * [Python](python.md)
 * [监控](monitor.md)
 * [MOOC](mooc.md)
-* [其他](others.md)
-    * [测试](test.md)
-    * [博客](blog.md)
-    * [知乎](zhihu.md)
+
+## 其他
+- [其他](others.md)
+- [测试](test.md)
+- [博客](blog.md)
+- [知乎](zhihu.md)

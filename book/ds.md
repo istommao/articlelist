@@ -1,5 +1,6 @@
 # 数据结构与算法
 
+- https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
 - Problem Solving with Algorithms and Data Structures using Python http://interactivepython.org/courselib
 
 - 常见算法在实际项目中的应用 http://blog.jobbole.com/52669/

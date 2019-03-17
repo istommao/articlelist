@@ -80,6 +80,7 @@
 - http://www.cnblogs.com/liushuijinger/archive/2012/05/09/2490972.html
 - https://www.cnblogs.com/YukiJohnson/archive/2012/10/27/2741836.html
 - https://arthurchiao.github.io/blog/x86-asm-guide-trans-cn-zh/
+- 编译器  https://duguying.gitbooks.io/parsing-techniques/
 
 ## 其他
 
