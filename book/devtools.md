@@ -12,6 +12,7 @@
 - http://blog.jobbole.com/87481/
 - https://geekplux.com/2015/06/06/vim-those-fit-yourself-are-the-best.html
 - https://coolshell.cn/articles/5426.html
+- https://zhuanlan.zhihu.com/p/58361985
 
 ## emacs
 

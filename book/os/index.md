@@ -1,8 +1,11 @@
 # 操作系统
 
+- 带您进入内核开发的大门 | 内核中的工作队列 https://zhuanlan.zhihu.com/p/60905711
 
 ## 计算机基础
 
+
+- 通俗地讲解基础计算机工作原理 https://zhuanlan.zhihu.com/p/60634845
 - 计算机底层是如何访问显卡的？ http://www.zhihu.com/question/20722310
 
 - 计算机原理学习（3）-- 内存工作原理 http://www.cnblogs.com/onlyforcloud/articles/4444325.html

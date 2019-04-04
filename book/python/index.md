@@ -1,5 +1,6 @@
 # Python
 
+- 10个不到500行代码的超牛Python 练手项目（技术清单系列） https://zhuanlan.zhihu.com/p/52881791
 
 - http://projectpython.net/chapter00/
 - https://blog.csdn.net/yueguanghaidao/article/details/25382717

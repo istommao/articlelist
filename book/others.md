@@ -1,5 +1,6 @@
 # 其他
 
+- 计算机科学自学指南 http://blog.jobbole.com/114573/
 - [Introduction
 How to be a Programmer 中文版](https://ahangchen.gitbooks.io/how-to-be-a-programmer-cn/content/)
 - 界面不错的文章样式 https://get233.com/archives/sass-intro.html#menu_index_1
@@ -135,3 +136,4 @@ How to be a Programmer 中文版](https://ahangchen.gitbooks.io/how-to-be-a-prog
 - https://juejin.im/post/5a30fd69f265da432480717c
 - https://www.cnblogs.com/xcj26/p/5242758.html
 
+- https://www.cnblogs.com/163yun/p/9212908.html

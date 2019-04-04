@@ -5,3 +5,5 @@
 - C语言知识点大汇总 http://www.imooc.com/article/1255
 
 - C模块+Python编译安装方式 https://blog.csdn.net/csq_year/article/details/53100338
+
+- 通过这 9 本开源好书学习 C 语言 http://blog.jobbole.com/110148/

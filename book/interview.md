@@ -23,6 +23,7 @@
 - https://wdxtub.com/interview/14520847747820.html
 - https://wdxtub.com/interview/14520846564443.html
 - https://wdxtub.com/interview/14520846750052.html
+- 如何在10亿数中找出前1000大的数 https://mp.weixin.qq.com/s/V-VhsE-5aYU3v8RA8mCgaQ
 
 ## Python
 

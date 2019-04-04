@@ -1,5 +1,7 @@
 # 软件工程 系统架构
 
+- 分布式架构系列: 负载均衡技术详解 https://zhuanlan.zhihu.com/p/60730915
+- http://dsrg.pdos.csail.mit.edu/papers/
 - 七牛是如何搞定每天500亿条日志的 http://news.csdn.net/article_preview.html?preview=1&reload=1&arcid=2825342
 
 - https://zhuanlan.zhihu.com/p/24660542
@@ -11,6 +13,8 @@
 
 ## 系统架构
 
+- 知乎的技术架构是什么样的 https://www.zhihu.com/question/314356555/answer/625772570
+- 各大互联网公司架构演进之路「包含腾讯、阿里、美团、百度、新浪等知名公司」https://mp.weixin.qq.com/s/QVzeiTKRHbddcSpEbeRK-g
 - 分布式文件系统FastDFS设计原理 http://blog.chinaunix.net/uid-20196318-id-4058561.html
 - https://mp.weixin.qq.com/s/6pCJFrNOk4HJYlS5qu4K4A
 - https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489270&amp;idx=1&amp;sn=2ce1884396db6b284d6ae0d50a01d7a9
