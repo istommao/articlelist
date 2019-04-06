@@ -1,5 +1,10 @@
 # 其他
 
+
+- 理解字节序 http://www.ruanyifeng.com/blog/2016/11/byte-order.html
+
+- 20个正则表达式 https://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652545446&idx=1&sn=7dc50fdd4f0d4542a464b8caec3c9af9
+
 - 计算机科学自学指南 http://blog.jobbole.com/114573/
 - [Introduction
 How to be a Programmer 中文版](https://ahangchen.gitbooks.io/how-to-be-a-programmer-cn/content/)
@@ -137,3 +142,26 @@ How to be a Programmer 中文版](https://ahangchen.gitbooks.io/how-to-be-a-prog
 - https://www.cnblogs.com/xcj26/p/5242758.html
 
 - https://www.cnblogs.com/163yun/p/9212908.html
+
+
+## 图片网站
+
+- https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2650491226&idx=1&sn=306ac95dff72424614f63f243eb48060
+
+
+## 站点
+
+- https://www.jianshu.com/p/53a7da454057
+
+- https://haveibeenpwned.com/
+- https://www.jianshu.com/p/b61cd0bc2abe
+
+- 他花2000美金，1年读完麻省理工4年本科，并告诉每个人都可以这么做！ https://mp.weixin.qq.com/s?__biz=MzI2MTE2NzE4Mg==&mid=2651939377&amp;idx=1&amp;sn=44b7a210eb2f1502e2dda3f073141575&source=41
+
+
+## websocket
+
+- WebSocket 实现原理 https://zeeyang.com/2017/07/02/websocket/
+- 从构建分布式秒杀系统聊聊WebSocket推送通知 https://juejin.im/post/5b4ff8d1e51d4519531255d0
+
+

@@ -1,17 +1,55 @@
 # 软件工程 系统架构
 
-- 分布式架构系列: 负载均衡技术详解 https://zhuanlan.zhihu.com/p/60730915
-- http://dsrg.pdos.csail.mit.edu/papers/
+
+- 程序员怎么会不知道 C10K 问题呢 https://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650713082&idx=1&sn=876357ef71107d79c0fb024e89ac2ef5&chksm=bec065a989b7ecbf7c79b45385c429fd624ccceafd3da39c2e04042cf9fe83dd8178463d4c50&scene=4
+
+- 每秒千万级别的量是重生还是炼狱? http://github.tiankonguse.com/blog/2017/03/04/union-cache.html
+
+- 扛住100亿次请求？我们来试一试 https://github.com/xiaojiaqi/10billionhongbaos/wiki/%E6%89%9B%E4%BD%8F100%E4%BA%BF%E6%AC%A1%E8%AF%B7%E6%B1%82%EF%BC%9F%E6%88%91%E4%BB%AC%E6%9D%A5%E8%AF%95%E4%B8%80%E8%AF%95
+
+
+- 交易系统 - 领域驱动设计浅析 https://mp.weixin.qq.com/s/CJmOaxTv0Ksll3CvCIXcnA
+
+- 支付系统0x01: 基础设施 & 初版架构 https://www.jianshu.com/p/6c0fd558c98b
+
+
+- 服务降级背后的技术架构设计 https://mp.weixin.qq.com/s/cfWwjhKgDXMSQ3BzJ_S2Ag
+
+- 微信支付：如何打造移动支付时代的高可用收银系统？ https://36kr.com/p/5070129
+
+- 支付平台开发基础知识汇总 https://juejin.im/entry/5a45bb766fb9a0450809f9b8
+
+
+- 知乎容器化构建系统设计和实践 https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ%3D%3D&mid=2247489996&idx=1&sn=1d7bd88e3f644ab602f697f988fde80f
+
+- 软件架构入门 http://www.ruanyifeng.com/blog/2016/09/software-architecture.html
+
+
+- 暴走漫画基于公有云的全面容器化架构实践 https://juejin.im/entry/57634084207703006b99daa4
+- [同程旅游缓存系统设计:如何打造Redis时代的完美体系(含PPT)](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ%3D%3D&idx=1&mid=2653547622&sn=199cd6d8e3dff7c839935a7613d43e76)
+
 - 七牛是如何搞定每天500亿条日志的 http://news.csdn.net/article_preview.html?preview=1&reload=1&arcid=2825342
 
 - https://zhuanlan.zhihu.com/p/24660542
 - https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=404369248&idx=1&sn=fb92b273811d7a5c44fd97f7d034517f
 - https://www.jishux.com/p/83d6b7b81416f5fb
-
+- http://dsrg.pdos.csail.mit.edu/papers/
 - LinkedIn架构这十年
  http://www.infoq.com/cn/articles/ten-years-history-of-linkedIn-architecture
 
+## 负载均衡
+
+- 分布式架构实践——负载均衡 https://juejin.im/entry/59a4ea896fb9a024932224ad
+- 负载均衡原理的解析 https://my.oschina.net/u/3341316/blog/877206
+- 分布式架构系列: 负载均衡技术详解 https://zhuanlan.zhihu.com/p/60730915
+
+
+
 ## 系统架构
+
+- 大型分布式网站术语分析 https://blog.csdn.net/u013256816/article/details/51563564
+
+- [网站架构基础](https://mp.weixin.qq.com/s/5FmzAEqS6sui-mHev-XTPg)
 
 - 知乎的技术架构是什么样的 https://www.zhihu.com/question/314356555/answer/625772570
 - 各大互联网公司架构演进之路「包含腾讯、阿里、美团、百度、新浪等知名公司」https://mp.weixin.qq.com/s/QVzeiTKRHbddcSpEbeRK-g
@@ -22,7 +60,7 @@
 - https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f
 - 令人激动的微服务2.0技术栈 https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651005760&amp;idx=1&amp;sn=f693379db6066ba663fdbf5400108288
 - 一个创业公司的API网关落地实践 https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489439&amp;idx=1&amp;sn=442d3c54afb8ee9187443d273db51fcb
-- 大话程序猿眼里的高并发架构https://blog.thankbabe.com/2016/09/14/high-concurrency-scheme/
+- 大话程序猿眼里的高并发架构 https://blog.thankbabe.com/2016/09/14/high-concurrency-scheme/
 - 如果有10000台机器，你想怎么玩 http://qinghua.github.io/kubernetes-in-mesos-1/
 - 大型网站技术架构-入门梳理 http://brianway.github.io/2017/01/18/reading-note-architecture-design/
 - 设计一个智能客服系统 https://blog.csdn.net/wangyangzhizhou/article/details/62046912
@@ -55,33 +93,15 @@
 - 乐视秒杀：每秒十万笔交易的数据架构解读 https://dbaplus.cn/news-21-420-1.html
 - 从零到百亿互联网金融架构发展史 http://www.ityouknow.com/arch/2017/01/10/ten-billion-architecture-history.html
 
-## 分布式
-
-- [保证分布式系统数据一致性的6种方案](https://juejin.im/post/5a69509ff265da3e4d72e3db)
-- [饿了么混合云架构探索](https://mp.weixin.qq.com/s/4oEWnE03KkOEZtsUXl99KA)
-- [从银行转账失败到分布式事务：总结与思考](http://www.cnblogs.com/xybaby/p/7465816.html)
-- [分布式架构系统生成全局唯一序列号的一个思路](https://mp.weixin.qq.com/s/F7WTNeC3OUr76sZARtqRjw)
-- [高并发和高可用的一点思考](http://kriszhang.com/high_performance/)
-- [一种基于“哨兵”的分布式缓存设计：回顾一下14年双11大促缓存方案的思路](https://juejin.im/entry/5a051cc86fb9a045167ca5a9)
-- [京东10亿级调用量背后的高可用网关系统架构实践](http://www.yunweipai.com/archives/23653.html)
-- [从构建分布式秒杀系统聊聊限流特技](https://blog.52itstyle.com/archives/2982/)
-- [2000万日订单背后：美团外卖客户端高可用建设体系](https://mp.weixin.qq.com/s/VCR4hdmE0ZsxjZsM_6g19w)
-- [浅谈大规模分布式系统中那些技术点](http://www.linkedkeeper.com/detail/blog.action?bid=1012)
-- [分布式实时日志分析解决方案ELK部署架构](https://my.oschina.net/feinik/blog/1580625)
-- [支付系统0x01: 基础设施 & 初版架构](https://www.jianshu.com/p/6c0fd558c98b)
-- [大型网站的HTTPS实践：基于协议和配置的优化](https://mp.weixin.qq.com/s/SlPkN-VQ1hi7UACPfByypg)
-- [大型分布式网站术语分析](http://blog.csdn.net/u013256816/article/details/51563564)
-- [分布式架构的套路](https://mp.weixin.qq.com/s/vJJWpIZ-bTzVl9E3wPLlEw)
-- [分布式文件系统FastDFS详解](https://juejin.im/post/5a51ff8df265da3e347b14e4)
-
-- [漫谈单点登录（SSO）(淘宝天猫)（转载）](https://www.cnblogs.com/ruiati/p/6249361.html)
-- [SSO单点登录、跨域重定向、跨域设置Cookie、京东单点登录实例分析](https://blog.csdn.net/clh604/article/details/20365967)
-- [Taobao SSO 跨域登录过程解析](https://yanmingming.wordpress.com/2017/12/12/taobao-sso-%E8%B7%A8%E5%9F%9F%E7%99%BB%E5%BD%95%E8%BF%87%E7%A8%8B%E8%A7%A3%E6%9E%90/)
-
-- 深度解析gRPC以及京东分布式服务框架跨语言实战 https://mp.weixin.qq.com/s?__biz=MzUzMjkwMjg3Mg==&mid=2247484904&amp;idx=1&amp;sn=36113a0fe83e7762ef952a3b9d7222f5
-
 ## 高并发 高可用
 
+
+- 2000万日订单背后：美团外卖客户端高可用建设体系 https://mp.weixin.qq.com/s/VCR4hdmE0ZsxjZsM_6g19w
+- 去哪儿网机票搜索系统的高并发架构设计 https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489430&amp;idx=1&amp;sn=d28a8c24a4fd07f8f0066944480a449b&source=41
+
+- 高并发和高可用的一点思考 http://kriszhang.com/high_performance/
+
+- 如何做高可用的架构设计 https://mp.weixin.qq.com/s?__biz=MzI3OTUwMjM4MA==&mid=2247483756&idx=1&sn=7bda8ca7926977b12d4b8fd94cc72220&chksm=eb478a2fdc30033958dc7de381c0214c1d8073e707a287d75789fba73b2dcf046dff4c68c569#rd
 - https://colobu.com/2015/05/22/implement-C1000K-servers-by-spray-netty-undertow-and-node-js/
 - 高性能服务器架构思路【不仅是思路】https://wetest.qq.com/lab/view/?id=80
 - Web服务器的性能估计 http://www.yunweipai.com/archives/5487.html

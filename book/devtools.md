@@ -9,6 +9,9 @@
 
 ## Vim
 
+- 学 Vim 时希望早点知道的建议 http://blog.jobbole.com/103343/
+- Vim 配置入门 http://www.ruanyifeng.com/blog/2018/09/vimrc.html
+- [Vim](https://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712546&idx=1&sn=c4db99547b75d6001b3cfaa6cbc0e715#rd)
 - http://blog.jobbole.com/87481/
 - https://geekplux.com/2015/06/06/vim-those-fit-yourself-are-the-best.html
 - https://coolshell.cn/articles/5426.html

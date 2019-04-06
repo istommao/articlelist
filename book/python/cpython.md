@@ -1,5 +1,9 @@
 # CPython
 
+
+
+- Python源码阅读-闭包的实现 http://python.jobbole.com/83545/
+
 - https://blog.csdn.net/caimouse/article/details/45098859
 - https://devguide.python.org/
 - https://github.com/amygdalama/python-internals

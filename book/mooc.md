@@ -13,3 +13,8 @@
 
 
 - [可汗学院公开课：微积分预备](http://open.163.com/special/Khan/precalculus.html)
+
+- https://www.jianshu.com/p/ba391122d7c9
+
+
+- https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2650729791&idx=1&sn=df681f5152fc57027fff928fa9cc28ab

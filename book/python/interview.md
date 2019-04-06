@@ -23,3 +23,10 @@
 - http://blog.jobbole.com/84618/
 - https://michaelyou.github.io/2015/05/19/%E7%BF%BB%E8%AF%91-python%E6%8B%9B%E8%81%98%E6%8C%87%E5%8D%97/
 - https://zhuanlan.zhihu.com/p/25742657
+- python面试题大全（一） https://www.cnblogs.com/goodhacker/p/3366618.html
+- Python线程面试题 https://blog.csdn.net/hlg1995/article/details/81592756
+- 2018年最常见的Python面试题&答案（上篇） https://juejin.im/post/5b6bc1d16fb9a04f9c43edc3
+- Python进程、线程、协程面试题 https://www.jianshu.com/p/dd539974a51e
+
+
+- Python面试中8个必考问题 https://segmentfault.com/a/1190000006265256

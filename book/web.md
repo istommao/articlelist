@@ -1,6 +1,11 @@
 # web
 
+
+- 使用 Node.js 搭建一个 API 网关 https://juejin.im/post/5992769151882548b17f76a6
+
 - 做 Web 应用要知道的那些事 http://web.jobbole.com/82778/
+
+- 如何实现一个Web Server https://juejin.im/post/5a2a9af4f265da43310dbc53
 
 
 ## restful
@@ -31,6 +36,8 @@
 - https://www.zhihu.com/question/19998865
 
 ## jwt
+
+- 前后端分离之JWT用户认证 https://lion1ou.win/2017/01/18/
 
 - https://www.jianshu.com/p/576dbf44b2ae
 - https://www.jdon.com/artichect/json-web-tokens.html

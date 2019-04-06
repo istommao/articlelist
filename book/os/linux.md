@@ -1,6 +1,9 @@
 # Linux / Unix
 
 
+- https://xufanglove.gitbooks.io/linux/content/
+- 写代码怎能不会这些 Linux 命令 https://zhuanlan.zhihu.com/p/28674639
+
 - 一大波你可能不知道的 Linux 网络工具 https://linux.cn/article-5435-1.html
 - https://akaedu.github.io/book/index.html
 - 鸟哥Linux https://xiaoxueying.gitbooks.io/linux-cookie-of-vbird-3rd/content/index.html
@@ -32,3 +35,5 @@
 - http://blog.sina.com.cn/s/blog_6200c1440100vt4z.html
 - https://kb.cnblogs.com/page/531409/
 
+
+- 有趣的linux命令 http://www.cnblogs.com/sukai/archive/2013/06/08/3127031.html

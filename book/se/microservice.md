@@ -10,3 +10,10 @@
 
 - 深入聊聊微服务架构的身份认证问题 http://www.infoq.com/cn/articles/identity-authentication-of-architecture-in-micro-service
 
+
+- 微服务开发的软件过程 https://juejin.im/entry/58a8e65e128fe10064989ff1
+
+
+- 如何构建微服务架构 https://www.jianshu.com/p/77ce2dbd1d6e
+
+- REST?RPC?是时候改变你对微服务的认知了 https://mp.weixin.qq.com/s/HTeQNU-1P-hWloEdjl1QYg

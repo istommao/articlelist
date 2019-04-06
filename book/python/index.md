@@ -1,5 +1,17 @@
 # Python
 
+
+- 简单 12 步理解 Python 装饰器 https://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652564734&idx=2&sn=ec2502d426a3f6b05c02cf2a3ac871e6&chksm=8464c4b4b3134da266c197a606d990e7561eb72f73147b17ecc64fe873f53246bfcb48e9076a&scene=4
+
+- Python干货：表达式 i += x 与 i = i + x 等价吗？ https://mp.weixin.qq.com/s/jluii9YIvfhKd_tPecfTaw
+
+- 你不知道的按位运算 https://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652565191&idx=1&sn=7b4b2ae8347715cbc21d684b86e8c783&chksm=8464c68db3134f9b0433f6917b9bcf7eb7c64dba69f535b56badf072da39d7da87acc7215fac&scene=27#wechat_redirect
+
+- 编写高效且优雅的 Python 代码（1） https://segmentfault.com/a/1190000007458907
+
+
+- Python 程序员需要知道的 30 个技巧 https://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652565090&idx=1&sn=73c68dcbba1838134b90b2f3bcee90b4&chksm=8464c628b3134f3ea483610cb6bdbfbd9e0f7a630889e022bccdcc4edb615248d8cba096a3e8&scene=27
+
 - 10个不到500行代码的超牛Python 练手项目（技术清单系列） https://zhuanlan.zhihu.com/p/52881791
 
 - http://projectpython.net/chapter00/
@@ -204,3 +216,38 @@
 - https://www.binarytides.com/raw-socket-programming-in-python-linux/
 - https://www.binarytides.com/python-socket-programming-tutorial/
 - https://www.binarytides.com/category/sockets/python-sockets-sockets/
+
+- 这4个Python实战项目，让你瞬间读懂Python！ https://www.toutiao.com/a6593456515221291528/
+
+## 进程线程
+
+
+- python多进程基础 https://juejin.im/post/5aa732b3518825558001e5af
+- python多线程之事件（Event) https://www.cnblogs.com/yoyoketang/p/8341972.html
+- python多线程模块thread,threading,Queue http://www.voidcn.com/article/p-fnqtofrz-xt.html
+
+- Python多线程详解 https://blog.csdn.net/luckytanggu/article/details/52183990
+- 多线程编程---python https://www.jianshu.com/p/118ff7b4f86b
+
+- 一道面试题：说说进程和线程的区别 https://foofish.net/thread-and-process.html
+- 为什么有人说 Python 多线程是鸡肋？ https://foofish.net/thread.html
+- python中的多线程 https://wulc.me/2016/03/26/python%E4%B8%AD%E7%9A%84%E5%A4%9A%E7%BA%BF%E7%A8%8B/
+
+- python线程使用场景 多线程下载 https://www.cnblogs.com/liujitao79/p/548460374777.html
+- 多线程 协程 在实际项目中的应用场景 https://www.v2ex.com/t/453925
+- Python 中的多线程和多进程（上） https://zhuanlan.zhihu.com/p/39542342
+- Python多线程详解 http://python.jobbole.com/85050/
+- Python 多进程与多线程 https://www.jianshu.com/p/a69dec87e646
+- Python多线程 https://www.jianshu.com/p/d11b7c3b0071
+- 基于Python的多进程和多线程对比和应用分析 https://juejin.im/entry/5aa6360c518825555e5d7dea
+- 多线程的应用场景 https://blog.csdn.net/hll814/article/details/50816268
+- 十分钟了解epoll及多线程IO模型 https://mp.weixin.qq.com/s/FarxcdB_w7osAozEPHBONQ
+
+
+- https://juejin.im/post/5a6dc8e45188257326470c55
+
+## web
+
+- Python Web 学习资料总结 https://zhuanlan.zhihu.com/p/59195127
+
+- https://juejin.im/post/597d5eb25188251540121e15

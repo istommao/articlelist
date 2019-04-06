@@ -10,3 +10,6 @@
 - Mysql备份还原数据库之mysqldump实例及参数详细说明 http://www.cnblogs.com/xuejie/archive/2013/01/11/2856911.html
 - 关系型数据库表结构的两个设计技巧
  http://blog.jobbole.com/100060/
+
+
+- 优化 | 再用传统分页SQL你就死定了 https://blog.csdn.net/yejr/article/details/70039403

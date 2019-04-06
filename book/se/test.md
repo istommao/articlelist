@@ -14,3 +14,5 @@
 
 - 当前服务器配置能承受多大的QPS？如何评估？ https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489429&amp;idx=1&amp;sn=741619290c200ff73f4a5801bde7331f
 - 网站架设中的服务器并发数和服务器带宽估计方法小记 http://www.cnblogs.com/pangguoping/articles/5545459.html
+
+- 全链路压测平台（Quake）在美团中的实践 https://mp.weixin.qq.com/s/7kKhAYtkIuvlBnZlaYATnw

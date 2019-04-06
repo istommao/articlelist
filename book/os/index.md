@@ -56,9 +56,13 @@
 
 ## 其他
 
+- OpenResty 不完全指南 https://mp.weixin.qq.com/s/ddgT0DX3WA45PqC-30A45A
 - https://openresty.org/posts/dynamic-tracing/?utm_source=qq
 
 - 网络库libevent、libev、libuv对比
     - https://blog.csdn.net/lijinqi1987/article/details/71214974
     - http://www.voidcn.com/article/p-daesptvb-bqt.html
     - https://winddoing.github.io/post/12060.html
+
+
+- 进程 线程 协程 管程 纤程 概念对比理解 https://zhuanlan.zhihu.com/p/26757689

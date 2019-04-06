@@ -28,3 +28,9 @@
 
 - http://blog.jobbole.com/88115/
 
+
+
+- 分分钟拯救监控知识体系 https://mp.weixin.qq.com/s?__biz=MzU0NDEyODkzMQ==&mid=2247486727&amp;idx=1&amp;sn=9f19ab46a05cc7210e2d9adb055de7a0&source=41
+
+
+- 实践｜如何从0开始 搭建应用监控架构 https://mp.weixin.qq.com/s?__biz=MzAwNzA0NTMzMQ==&mid=2653202747&idx=1&sn=1f7b7425416a83c83accde49faad88bf&chksm=80d42087b7a3a9915e92be57daeb7ddfc1f3942908e772c01f00e33b9da3b3f601cf089e691c&mpshare=1&scene=23&srcid=1209HSNqc8p1yXBovoJNoyMp#rd

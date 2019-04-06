@@ -1,6 +1,8 @@
 # 计算机网络
 
 
+- 关于TCP/IP，必知必会的十个问题 https://mp.weixin.qq.com/s/qn5fw8yHvjBou6Ps2Xo9Lw
+
 - https://www.cnblogs.com/fengzanfeng/articles/1339347.html#3902877
 - [三十天学不会TCP,UDP/IP网络编程](https://rogerzhu.gitbooks.io/-tcp-udp-ip/content/)
 - [https解读](https://tls.ulfheim.net/)
@@ -56,12 +58,23 @@
 
 ## 高性能网络编程
 
+
+- epoll 的一个设计问题 https://blog.codingnow.com/2017/05/epoll_close_without_del.html
+
+- Epoll的使用详解 https://www.jianshu.com/p/ee381d365a29
+
+- 深入理解SELECT、POLL和EPOLL https://wyj.shiwuliang.com/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3SELECT%E3%80%81POLL%E5%92%8CEPOLL%20.html
+- 大话 Select、Poll、Epoll https://cloud.tencent.com/developer/article/1005481
+
+- Linux IO模式及 select、poll、epoll详解 https://segmentfault.com/a/1190000003063859
 - python下的socket学习，包括select， epoll，kqueue https://my.oschina.net/u/2299936/blog/615252
 - Select 模型简介
  http://python.jobbole.com/84058/
 
 - python下简单实现select和epoll的socket网络编程 http://xiaorui.cc/2014/11/13/python%E4%B8%8B%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0select%E5%92%8Cepoll%E7%9A%84socket%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/
 
+- IO多路复用之epoll总结 https://www.cnblogs.com/Anker/p/3263780.html
+- epoll的基本概念和C10K问题 https://www.cnblogs.com/dkblog/archive/2011/03/28/1997678.html
 - Epoll 模型简介
  http://python.jobbole.com/84077/
 - 单台服务器并发TCP连接数到底可以有多少 http://www.52im.net/thread-561-1-1.html
@@ -72,3 +85,23 @@
 - 一文读懂高性能网络编程中的线程模型 http://www.52im.net/thread-1939-1-1.html
 - http://www.kegel.com/c10k.html
 
+- Linux 开发，使用多线程还是用 IO 复用 select/epoll？ https://www.zhihu.com/question/20114168
+- 高并发的epoll+线程池，epoll在线程池内 https://blog.csdn.net/libaineu2004/article/details/72822558
+
+- 高并发性能调试经验分享 http://blog.jobbole.com/102748/
+
+- linux高效率编程：epoll和多线程 https://blog.csdn.net/zhiyuan411/article/details/18055595
+
+## 爬虫
+
+- 一篇了解爬虫技术方方面面 https://juejin.im/entry/58c235d9570c35005823142b
+- https://blog.csdn.net/forezp/article/details/70198541
+- 关于反爬虫，看这一篇就够了 https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ%3D%3D&idx=2&mid=2697265241&sn=f2965d124d07fe5efcdc85094eb1c2df
+
+- https://mp.weixin.qq.com/s?__biz=MzAwNDc0MTUxMw%3D%3D&mid=2649640122&idx=1&sn=ea865a0e9517b339cb1b36e26bbdff61
+
+
+## RPC
+
+- 那些年，我们追过的RPC https://zhuanlan.zhihu.com/p/29028054
+- rpc https://mp.weixin.qq.com/s/CgLlygqkUuk72nHP7If7uA

@@ -1,5 +1,6 @@
 # Docker
 
+- Docker — 从入门到实践 https://yeasy.gitbooks.io/docker_practice/content/
 - [Docker 入门教程](https://mp.weixin.qq.com/s/S64K5cIONsJ6MwptBaMcfg)
 
 - [Docker底层技术](https://www.jianshu.com/p/7a1ce51a0eba)
@@ -12,3 +13,15 @@
 - 用docker部署django应用 https://tomming233.github.io/2017/04/24/%E7%94%A8docker%E9%83%A8%E7%BD%B2django%E5%BA%94%E7%94%A8/
 
 - https://mp.weixin.qq.com/s/y51N4xvJX2OcNnmKligFGA
+
+- http://www.patricksoftwareblog.com/using-docker-for-flask-application-development-not-just-production/
+
+
+- 与 Docker 紧密整合的 12 大开源工具 https://juejin.im/entry/59cc8a1c51882531086026bc
+
+
+- 理解Docker的多阶段镜像构建 https://tonybai.com/2017/11/11/multi-stage-image-build-in-docker/
+
+
+
+

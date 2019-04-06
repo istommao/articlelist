@@ -1,5 +1,18 @@
 # 运维
 
+
+- Linux运维工程师必须掌握的基础技能有哪些 https://mp.weixin.qq.com/s?__biz=MjM5NzA1MTcyMA==&mid=2651163075&idx=2&sn=9f686686760d522d726d5ae2c8caf71b&chksm=bd2ec5e48a594cf2d3eb1542c4518f613a5ed30026bc25813ff9cddea9a8f80b6df3aa908864&scene=4
+
+- 基于 Python 构建自动化运维平台 https://mp.weixin.qq.com/s?__biz=MzAwNDc0MTUxMw==&mid=2649639934&idx=1&sn=3c0c067c62aef5395de328c6578dbd9b&chksm=833dab18b44a220e5337555a595bf416a459709f0f5b12babca7fd47382990591be656bfd925&scene=4
+
+- 线上操作与线上问题排查实战 https://mp.weixin.qq.com/s/ZZp0H5vIBNu47KsiJOju2Q
+
+- https://mp.weixin.qq.com/s/EOsVEvZ95onDXJPsjMoA2g
+
+- 网络安全咨询顾问眼中的DevOps https://www.freebuf.com/column/157171.html
+
+- 给 DevOps 初学者的入门指南 https://juejin.im/entry/57e897eba22b9d006158a3ad
+
 - https://mp.weixin.qq.com/s/iqy1EVxHwb7vi32bHq0VLw
 - https://mp.weixin.qq.com/s/eIEpVT97A8qslEirjejtnw
 - http://dockone.io/article/1899
@@ -17,6 +30,9 @@
 
 ## Nginx
 
+- Nginx 基本配置备忘 https://juejin.im/entry/585c9f9e1b69e600560c9003
+
+- Nginx 中的两种限流方式 https://chenyongjun.vip/articles/81
 - Nginx限流 https://mp.weixin.qq.com/s/2AafRL-NcBLcWPkukAy08A
 - Nginx设置反向代理内网服务器/内部端口 https://www.magentonotes.com/nginx-configure-proxy-intranet.html
 - http://www.infoq.com/cn/articles/thread-pools-boost-performance-9x

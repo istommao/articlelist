@@ -1,6 +1,9 @@
 # 安全
 
 
+- Web开发者安全速查表 https://www.freebuf.com/articles/web/135278.html
+- https://juejin.im/entry/5771e9362e958a0078fa0ff2
+
 - 常见的Web密码学攻击方式汇总 http://bobao.360.cn/learning/detail/3100.html
 - 软件 Bug 引发的十次严重后果 http://blog.jobbole.com/97/
 
