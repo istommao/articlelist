@@ -1,0 +1,828 @@
+
+<!DOCTYPE HTML>
+<html lang="zh-hans" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>分布式 · article list</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-prism/prism-okaidia.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-toc2/toc2.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-expandable-chapters/expandable-chapters.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-page-toc-button/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-back-to-top-button/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="arch.html" />
+    
+    
+    <link rel="prev" href="../database/redis.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="输入并搜索" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../ds.html">
+            
+                <a href="../ds.html">
+            
+                    
+                    数据结构与算法
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">操作系统</li>
+        
+        
+    
+        <li class="chapter " data-level="2.1" data-path="../os/">
+            
+                <a href="../os/">
+            
+                    
+                    操作系统
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2" data-path="../os/linux.html">
+            
+                <a href="../os/linux.html">
+            
+                    
+                    Linux/Unix
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">计算机网络</li>
+        
+        
+    
+        <li class="chapter " data-level="3.1" data-path="../network/">
+            
+                <a href="../network/">
+            
+                    
+                    计算机网络
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.2" data-path="../network/tcpip.html">
+            
+                <a href="../network/tcpip.html">
+            
+                    
+                    TCP/IP
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3" data-path="../network/http.html">
+            
+                <a href="../network/http.html">
+            
+                    
+                    HTTP/HTTPS
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.4" data-path="../network/dns.html">
+            
+                <a href="../network/dns.html">
+            
+                    
+                    DNS
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">数据库</li>
+        
+        
+    
+        <li class="chapter " data-level="4.1" data-path="../database/">
+            
+                <a href="../database/">
+            
+                    
+                    数据库
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.2" data-path="../database/mysql.html">
+            
+                <a href="../database/mysql.html">
+            
+                    
+                    MySQL
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.3" data-path="../database/redis.html">
+            
+                <a href="../database/redis.html">
+            
+                    
+                    Redis
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">软件工程</li>
+        
+        
+    
+        <li class="chapter active" data-level="5.1" data-path="distributed.html">
+            
+                <a href="distributed.html">
+            
+                    
+                    分布式
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="5.2" data-path="arch.html">
+            
+                <a href="arch.html">
+            
+                    
+                    系统架构
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="5.3" data-path="git.html">
+            
+                <a href="git.html">
+            
+                    
+                    Git
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="5.4" data-path="microservice.html">
+            
+                <a href="microservice.html">
+            
+                    
+                    微服务
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="5.5" data-path="test.html">
+            
+                <a href="test.html">
+            
+                    
+                    测试
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="5.6" data-path="docker.html">
+            
+                <a href="docker.html">
+            
+                    
+                    Docker
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="5.7" data-path="security.html">
+            
+                <a href="security.html">
+            
+                    
+                    安全
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="5.8" data-path="devops.html">
+            
+                <a href="devops.html">
+            
+                    
+                    运维
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="5.9" data-path="middleware.html">
+            
+                <a href="middleware.html">
+            
+                    
+                    中间件
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="5.10" data-path="monitor.html">
+            
+                <a href="monitor.html">
+            
+                    
+                    监控
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Python</li>
+        
+        
+    
+        <li class="chapter " data-level="6.1" data-path="../python/">
+            
+                <a href="../python/">
+            
+                    
+                    Python
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="6.2" data-path="../python/interview.html">
+            
+                <a href="../python/interview.html">
+            
+                    
+                    interview
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="6.3" data-path="../python/cpython.html">
+            
+                <a href="../python/cpython.html">
+            
+                    
+                    CPython
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="6.4" data-path="../python/django.html">
+            
+                <a href="../python/django.html">
+            
+                    
+                    Django
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="6.5" data-path="../python/flask.html">
+            
+                <a href="../python/flask.html">
+            
+                    
+                    Flask
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">其他</li>
+        
+        
+    
+        <li class="chapter " data-level="7.1" data-path="../book.html">
+            
+                <a href="../book.html">
+            
+                    
+                    书籍
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.2" data-path="../devtools.html">
+            
+                <a href="../devtools.html">
+            
+                    
+                    devtools
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.3" data-path="../github.html">
+            
+                <a href="../github.html">
+            
+                    
+                    github
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.4" data-path="../others.html">
+            
+                <a href="../others.html">
+            
+                    
+                    其他
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.5" data-path="../blog.html">
+            
+                <a href="../blog.html">
+            
+                    
+                    博客
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.6" data-path="../zhihu.html">
+            
+                <a href="../zhihu.html">
+            
+                    
+                    知乎
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.7" data-path="../math.html">
+            
+                <a href="../math.html">
+            
+                    
+                    数学
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.8" data-path="../clang.html">
+            
+                <a href="../clang.html">
+            
+                    
+                    C语言
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.9" data-path="../mooc.html">
+            
+                <a href="../mooc.html">
+            
+                    
+                    MOOC
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            本书使用 GitBook 发布
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >分布式</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="&#x5206;&#x5E03;&#x5F0F;">&#x5206;&#x5E03;&#x5F0F;</h1>
+<ul>
+<li>&#x4ECE;&#x6784;&#x5EFA;&#x5206;&#x5E03;&#x5F0F;&#x79D2;&#x6740;&#x7CFB;&#x7EDF;&#x804A;&#x804A;&#x9650;&#x6D41;&#x7279;&#x6280; <a href="https://blog.52itstyle.vip/archives/2982/" target="_blank">https://blog.52itstyle.vip/archives/2982/</a></li>
+</ul>
+<ul>
+<li><p>&#x5206;&#x5E03;&#x5F0F;&#x7CFB;&#x7EDF;&#x8BBE;&#x8BA1;&#x7684;&#x6C42;&#x751F;&#x4E4B;&#x8DEF; <a href="https://wetest.qq.com/lab/view/105.html" target="_blank">https://wetest.qq.com/lab/view/105.html</a></p>
+</li>
+<li><p>&#x5FAE;&#x535A;&#x9650;&#x6D41;&#x539F;&#x7406;&#x5168;&#x89E3;&#x6790; <a href="https://weibo.com/ttarticle/p/show?id=2309404139601915689918" target="_blank">https://weibo.com/ttarticle/p/show?id=2309404139601915689918</a></p>
+</li>
+</ul>
+<ul>
+<li><p>&#x4ECE;&#x94F6;&#x884C;&#x8F6C;&#x8D26;&#x5931;&#x8D25;&#x5230;&#x5206;&#x5E03;&#x5F0F;&#x4E8B;&#x52A1;&#xFF1A;&#x603B;&#x7ED3;&#x4E0E;&#x601D;&#x8003; <a href="http://www.cnblogs.com/xybaby/p/7465816.html" target="_blank">http://www.cnblogs.com/xybaby/p/7465816.html</a></p>
+</li>
+<li><p>&#x5355;&#x70B9;&#x767B;&#x5F55;&#x539F;&#x7406;&#x4E0E;&#x7B80;&#x5355;&#x5B9E;&#x73B0; <a href="http://www.cnblogs.com/ywlaker/p/6113927.html" target="_blank">http://www.cnblogs.com/ywlaker/p/6113927.html</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s/vJJWpIZ-bTzVl9E3wPLlEw" target="_blank">&#x5206;&#x5E03;&#x5F0F;&#x67B6;&#x6784;&#x7684;&#x5957;&#x8DEF;</a></p>
+</li>
+</ul>
+<ul>
+<li><p><a href="https://juejin.im/entry/5b59615a5188251af86bf5c9" target="_blank">&#x4E00;&#x6587;&#x6DF1;&#x5165;&#x4E86;&#x89E3;&#xFF1A;&#x5206;&#x5E03;&#x5F0F;&#x7CFB;&#x7EDF;&#x4E2D;&#x7684;&#x7F13;&#x5B58;&#x67B6;&#x6784;</a> <a href="https://mp.weixin.qq.com/s/xzqLA5iYzpgKqud7o1MoRg" target="_blank">https://mp.weixin.qq.com/s/xzqLA5iYzpgKqud7o1MoRg</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s?__biz=MzI2NjA3NTc4Ng%3D%3D&amp;mid=2652080282&amp;idx=1&amp;sn=e1b457c7219341f683cff7eace63df40" target="_blank">5&#x5206;&#x949F;&#x7406;&#x89E3;&#x4E00;&#x81F4;&#x6027;&#x54C8;&#x5E0C;&#x7B97;&#x6CD5;</a></p>
+</li>
+<li><p>&#x63A5;&#x53E3;&#x9650;&#x6D41;&#x7B97;&#x6CD5;&#x603B;&#x7ED3; <a href="http://www.kissyu.org/2016/08/13/&#x9650;&#x6D41;&#x7B97;&#x6CD5;&#x603B;&#x7ED3;/" target="_blank">http://www.kissyu.org/2016/08/13/&#x9650;&#x6D41;&#x7B97;&#x6CD5;&#x603B;&#x7ED3;/</a></p>
+</li>
+<li><p><a href="https://juejin.im/post/5a69509ff265da3e4d72e3db" target="_blank">&#x4FDD;&#x8BC1;&#x5206;&#x5E03;&#x5F0F;&#x7CFB;&#x7EDF;&#x6570;&#x636E;&#x4E00;&#x81F4;&#x6027;&#x7684;6&#x79CD;&#x65B9;&#x6848;</a></p>
+</li>
+<li><a href="https://mp.weixin.qq.com/s/4oEWnE03KkOEZtsUXl99KA" target="_blank">&#x997F;&#x4E86;&#x4E48;&#x6DF7;&#x5408;&#x4E91;&#x67B6;&#x6784;&#x63A2;&#x7D22;</a></li>
+<li><a href="http://www.cnblogs.com/xybaby/p/7465816.html" target="_blank">&#x4ECE;&#x94F6;&#x884C;&#x8F6C;&#x8D26;&#x5931;&#x8D25;&#x5230;&#x5206;&#x5E03;&#x5F0F;&#x4E8B;&#x52A1;&#xFF1A;&#x603B;&#x7ED3;&#x4E0E;&#x601D;&#x8003;</a></li>
+<li><a href="https://mp.weixin.qq.com/s/F7WTNeC3OUr76sZARtqRjw" target="_blank">&#x5206;&#x5E03;&#x5F0F;&#x67B6;&#x6784;&#x7CFB;&#x7EDF;&#x751F;&#x6210;&#x5168;&#x5C40;&#x552F;&#x4E00;&#x5E8F;&#x5217;&#x53F7;&#x7684;&#x4E00;&#x4E2A;&#x601D;&#x8DEF;</a></li>
+<li><a href="http://kriszhang.com/high_performance/" target="_blank">&#x9AD8;&#x5E76;&#x53D1;&#x548C;&#x9AD8;&#x53EF;&#x7528;&#x7684;&#x4E00;&#x70B9;&#x601D;&#x8003;</a></li>
+<li><a href="https://juejin.im/entry/5a051cc86fb9a045167ca5a9" target="_blank">&#x4E00;&#x79CD;&#x57FA;&#x4E8E;&#x201C;&#x54E8;&#x5175;&#x201D;&#x7684;&#x5206;&#x5E03;&#x5F0F;&#x7F13;&#x5B58;&#x8BBE;&#x8BA1;&#xFF1A;&#x56DE;&#x987E;&#x4E00;&#x4E0B;14&#x5E74;&#x53CC;11&#x5927;&#x4FC3;&#x7F13;&#x5B58;&#x65B9;&#x6848;&#x7684;&#x601D;&#x8DEF;</a></li>
+<li><a href="http://www.yunweipai.com/archives/23653.html" target="_blank">&#x4EAC;&#x4E1C;10&#x4EBF;&#x7EA7;&#x8C03;&#x7528;&#x91CF;&#x80CC;&#x540E;&#x7684;&#x9AD8;&#x53EF;&#x7528;&#x7F51;&#x5173;&#x7CFB;&#x7EDF;&#x67B6;&#x6784;&#x5B9E;&#x8DF5;</a></li>
+<li><a href="https://blog.52itstyle.com/archives/2982/" target="_blank">&#x4ECE;&#x6784;&#x5EFA;&#x5206;&#x5E03;&#x5F0F;&#x79D2;&#x6740;&#x7CFB;&#x7EDF;&#x804A;&#x804A;&#x9650;&#x6D41;&#x7279;&#x6280;</a></li>
+<li><a href="https://mp.weixin.qq.com/s/VCR4hdmE0ZsxjZsM_6g19w" target="_blank">2000&#x4E07;&#x65E5;&#x8BA2;&#x5355;&#x80CC;&#x540E;&#xFF1A;&#x7F8E;&#x56E2;&#x5916;&#x5356;&#x5BA2;&#x6237;&#x7AEF;&#x9AD8;&#x53EF;&#x7528;&#x5EFA;&#x8BBE;&#x4F53;&#x7CFB;</a></li>
+<li><a href="http://www.linkedkeeper.com/detail/blog.action?bid=1012" target="_blank">&#x6D45;&#x8C08;&#x5927;&#x89C4;&#x6A21;&#x5206;&#x5E03;&#x5F0F;&#x7CFB;&#x7EDF;&#x4E2D;&#x90A3;&#x4E9B;&#x6280;&#x672F;&#x70B9;</a></li>
+<li><a href="https://my.oschina.net/feinik/blog/1580625" target="_blank">&#x5206;&#x5E03;&#x5F0F;&#x5B9E;&#x65F6;&#x65E5;&#x5FD7;&#x5206;&#x6790;&#x89E3;&#x51B3;&#x65B9;&#x6848;ELK&#x90E8;&#x7F72;&#x67B6;&#x6784;</a></li>
+<li><a href="https://www.jianshu.com/p/6c0fd558c98b" target="_blank">&#x652F;&#x4ED8;&#x7CFB;&#x7EDF;0x01: &#x57FA;&#x7840;&#x8BBE;&#x65BD; &amp; &#x521D;&#x7248;&#x67B6;&#x6784;</a></li>
+<li><a href="https://mp.weixin.qq.com/s/SlPkN-VQ1hi7UACPfByypg" target="_blank">&#x5927;&#x578B;&#x7F51;&#x7AD9;&#x7684;HTTPS&#x5B9E;&#x8DF5;&#xFF1A;&#x57FA;&#x4E8E;&#x534F;&#x8BAE;&#x548C;&#x914D;&#x7F6E;&#x7684;&#x4F18;&#x5316;</a></li>
+<li><a href="http://blog.csdn.net/u013256816/article/details/51563564" target="_blank">&#x5927;&#x578B;&#x5206;&#x5E03;&#x5F0F;&#x7F51;&#x7AD9;&#x672F;&#x8BED;&#x5206;&#x6790;</a></li>
+<li><p><a href="https://juejin.im/post/5a51ff8df265da3e347b14e4" target="_blank">&#x5206;&#x5E03;&#x5F0F;&#x6587;&#x4EF6;&#x7CFB;&#x7EDF;FastDFS&#x8BE6;&#x89E3;</a></p>
+</li>
+<li><p><a href="https://www.cnblogs.com/ruiati/p/6249361.html" target="_blank">&#x6F2B;&#x8C08;&#x5355;&#x70B9;&#x767B;&#x5F55;&#xFF08;SSO&#xFF09;(&#x6DD8;&#x5B9D;&#x5929;&#x732B;)&#xFF08;&#x8F6C;&#x8F7D;&#xFF09;</a></p>
+</li>
+<li><a href="https://blog.csdn.net/clh604/article/details/20365967" target="_blank">SSO&#x5355;&#x70B9;&#x767B;&#x5F55;&#x3001;&#x8DE8;&#x57DF;&#x91CD;&#x5B9A;&#x5411;&#x3001;&#x8DE8;&#x57DF;&#x8BBE;&#x7F6E;Cookie&#x3001;&#x4EAC;&#x4E1C;&#x5355;&#x70B9;&#x767B;&#x5F55;&#x5B9E;&#x4F8B;&#x5206;&#x6790;</a></li>
+<li><p><a href="https://yanmingming.wordpress.com/2017/12/12/taobao-sso-%E8%B7%A8%E5%9F%9F%E7%99%BB%E5%BD%95%E8%BF%87%E7%A8%8B%E8%A7%A3%E6%9E%90/" target="_blank">Taobao SSO &#x8DE8;&#x57DF;&#x767B;&#x5F55;&#x8FC7;&#x7A0B;&#x89E3;&#x6790;</a></p>
+</li>
+<li><p>&#x6DF1;&#x5EA6;&#x89E3;&#x6790;gRPC&#x4EE5;&#x53CA;&#x4EAC;&#x4E1C;&#x5206;&#x5E03;&#x5F0F;&#x670D;&#x52A1;&#x6846;&#x67B6;&#x8DE8;&#x8BED;&#x8A00;&#x5B9E;&#x6218; <a href="https://mp.weixin.qq.com/s?__biz=MzUzMjkwMjg3Mg==&amp;mid=2247484904&amp;idx=1&amp;sn=36113a0fe83e7762ef952a3b9d7222f5" target="_blank">https://mp.weixin.qq.com/s?__biz=MzUzMjkwMjg3Mg==&amp;mid=2247484904&amp;idx=1&amp;sn=36113a0fe83e7762ef952a3b9d7222f5</a></p>
+</li>
+</ul>
+<h2 id="&#x5206;&#x5E03;&#x5F0F;&#x7F13;&#x5B58;">&#x5206;&#x5E03;&#x5F0F;&#x7F13;&#x5B58;</h2>
+<ul>
+<li>&#x4E00;&#x79CD;&#x57FA;&#x4E8E;&#x201C;&#x54E8;&#x5175;&#x201D;&#x7684;&#x5206;&#x5E03;&#x5F0F;&#x7F13;&#x5B58;&#x8BBE;&#x8BA1;&#xFF1A;&#x56DE;&#x987E;&#x4E00;&#x4E0B;14&#x5E74;&#x53CC;11&#x5927;&#x4FC3;&#x7F13;&#x5B58;&#x65B9;&#x6848;&#x7684;&#x601D;&#x8DEF; <a href="https://juejin.im/entry/5a051cc86fb9a045167ca5a9" target="_blank">https://juejin.im/entry/5a051cc86fb9a045167ca5a9</a></li>
+</ul>
+<h2 id="&#x5206;&#x5E03;&#x5F0F;-id">&#x5206;&#x5E03;&#x5F0F; ID</h2>
+<ul>
+<li>&#x5206;&#x5E03;&#x5F0F;&#x67B6;&#x6784;&#x7CFB;&#x7EDF;&#x751F;&#x6210;&#x5168;&#x5C40;&#x552F;&#x4E00;&#x5E8F;&#x5217;&#x53F7;&#x7684;&#x4E00;&#x4E2A;&#x601D;&#x8DEF; <a href="https://mp.weixin.qq.com/s/F7WTNeC3OUr76sZARtqRjw" target="_blank">https://mp.weixin.qq.com/s/F7WTNeC3OUr76sZARtqRjw</a></li>
+<li>&#x5982;&#x679C;&#x518D;&#x6709;&#x4EBA;&#x95EE;&#x4F60;&#x5206;&#x5E03;&#x5F0F;ID&#xFF0C;&#x8FD9;&#x7BC7;&#x6587;&#x7AE0;&#x4E22;&#x7ED9;&#x4ED6; <a href="https://mp.weixin.qq.com/s/KfoLFClRwDXlcTDmhCEdaQ" target="_blank">https://mp.weixin.qq.com/s/KfoLFClRwDXlcTDmhCEdaQ</a></li>
+</ul>
+<h2 id="&#x5206;&#x5E03;&#x5F0F;&#x9501;">&#x5206;&#x5E03;&#x5F0F;&#x9501;</h2>
+<ul>
+<li>&#x6D45;&#x8C08;&#x5206;&#x5E03;&#x5F0F;&#x9501; <a href="http://www.linkedkeeper.com/detail/blog.action?bid=1023" target="_blank">http://www.linkedkeeper.com/detail/blog.action?bid=1023</a></li>
+<li><p>&#x57FA;&#x4E8E;redis&#x7684;&#x5206;&#x5E03;&#x5F0F;&#x9501;&#x5B9E;&#x73B0; <a href="https://juejin.im/entry/5a502ac2518825732b19a595" target="_blank">https://juejin.im/entry/5a502ac2518825732b19a595</a></p>
+</li>
+<li><p>&#x4F7F;&#x7528;Redis&#x5B9E;&#x73B0;&#x5206;&#x5E03;&#x5F0F;&#x9501;&#x53CA;&#x5176;&#x4F18;&#x5316; <a href="http://mzorro.me/2017/10/25/redis-distributed-lock/" target="_blank">http://mzorro.me/2017/10/25/redis-distributed-lock/</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s/UQbSeGHAak1WDerPlQBq7w" target="_blank">&#x4ECE;&#x6784;&#x5EFA;&#x5206;&#x5E03;&#x5F0F;&#x79D2;&#x6740;&#x7CFB;&#x7EDF;&#x804A;&#x804A;&#x5206;&#x5E03;&#x5F0F;&#x9501;</a></p>
+</li>
+<li><p>&#x804A;&#x804A;&#x5206;&#x5E03;&#x5F0F;&#x9501; <a href="https://mp.weixin.qq.com/s/pnPxgljnohU746TTVzUt3g" target="_blank">https://mp.weixin.qq.com/s/pnPxgljnohU746TTVzUt3g</a></p>
+</li>
+</ul>
+<h2 id="&#x6570;&#x636E;&#x4E00;&#x81F4;&#x6027;">&#x6570;&#x636E;&#x4E00;&#x81F4;&#x6027;</h2>
+<ul>
+<li>&#x4FDD;&#x8BC1;&#x5206;&#x5E03;&#x5F0F;&#x7CFB;&#x7EDF;&#x6570;&#x636E;&#x4E00;&#x81F4;&#x6027;&#x7684;6&#x79CD;&#x65B9;&#x6848; <a href="https://juejin.im/post/5a69509ff265da3e4d72e3db" target="_blank">https://juejin.im/post/5a69509ff265da3e4d72e3db</a></li>
+</ul>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="../database/redis.html" class="navigation navigation-prev " aria-label="Previous page: Redis">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="arch.html" class="navigation navigation-next " aria-label="Next page: 系统架构">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"分布式","level":"5.1","depth":1,"next":{"title":"系统架构","level":"5.2","depth":1,"path":"se/arch.md","ref":"se/arch.md","articles":[]},"previous":{"title":"Redis","level":"4.3","depth":1,"path":"database/redis.md","ref":"database/redis.md","articles":[]},"dir":"ltr"},"config":{"plugins":["github","prism","sitemap","toc2","expandable-chapters","page-toc-button","back-to-top-button"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"prism":{"lang":{"console":"bash","shell":"bash","clang":"c"},"css":["prismjs/themes/prism-okaidia.css"]},"github":{"url":"https://github.com/istommao/articlelist"},"search":{},"toc2":{"addClass":true,"className":"toc"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://istommao.github.io/articlelist/"},"page-toc-button":{},"back-to-top-button":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"expandable-chapters":{}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"article list","language":"zh-hans","gitbook":"*","description":"article list"},"file":{"path":"se/distributed.md","mtime":"2019-04-07T03:18:29.621Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-04-07T03:19:39.485Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-github/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-toc2/toc2.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-expandable-chapters/expandable-chapters.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-page-toc-button/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-back-to-top-button/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
