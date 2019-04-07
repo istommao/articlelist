@@ -19,6 +19,7 @@
 - [Redis](database/redis.md)
 
 ## 软件工程
+- [分布式](se/distributed.md)
 - [系统架构](se/arch.md)
 - [Git](se/git.md)
 - [微服务](se/microservice.md)
